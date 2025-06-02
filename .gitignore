@@ -1,0 +1,9 @@
+# .gitignore
+env/
+__pycache__/
+*.pyc
+*.log
+*.mmdb
+*.sqlite3
+*.zip
+*.tar.gz
