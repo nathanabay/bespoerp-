@@ -1,9 +1,33 @@
-# .gitignore
+# Ignore virtual environments
 env/
+.venv/
+
+# Ignore Python cache
 __pycache__/
 *.pyc
+
+# Ignore Frappe logs, DB, and assets
 *.log
-*.mmdb
 *.sqlite3
-*.zip
 *.tar.gz
+*.zip
+*.mmdb
+*.json.gz
+*.backup
+
+# Ignore node and JS-related build files
+node_modules/
+*.js.map
+*.tsbuildinfo
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Ignore Git LFS files if not set up
+*.mmdb
+
+
+
+
+
