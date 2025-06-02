@@ -1,0 +1,159 @@
+2025-06-01 14:48:10,660 DEBUG cd frappe-bench && python3 -m venv env
+2025-06-01 14:48:15,171 DEBUG cd frappe-bench && /home/bespoerp/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-06-01 14:48:17,268 DEBUG cd frappe-bench && /home/bespoerp/frappe-bench/env/bin/python -m pip install --quiet wheel
+2025-06-01 14:48:18,639 LOG Getting frappe
+2025-06-01 14:48:18,640 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2025-06-01 14:48:22,543 LOG Installing frappe
+2025-06-01 14:48:22,545 DEBUG cd /home/bespoerp/frappe-bench && /home/bespoerp/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/bespoerp/frappe-bench/apps/frappe 
+2025-06-01 14:49:03,903 DEBUG cd /home/bespoerp/frappe-bench/apps/frappe && yarn install --check-files
+2025-06-01 14:49:18,830 DEBUG cd /home/bespoerp/frappe-bench && sudo supervisorctl restart frappe:
+2025-06-01 14:49:19,093 WARNING cd /home/bespoerp/frappe-bench && sudo supervisorctl restart frappe: executed with exit code 2
+2025-06-01 14:49:19,093 WARNING restarting supervisor group `frappe:` failed. Use `bench restart` to retry.
+2025-06-01 14:49:19,093 DEBUG cd frappe-bench && bench build
+2025-06-01 14:49:19,287 INFO /usr/local/bin/bench build
+2025-06-01 14:50:10,212 LOG setting up backups
+2025-06-01 14:50:10,225 LOG backups were set up
+2025-06-01 14:50:10,229 INFO Bench frappe-bench initialized
+2025-06-01 14:52:19,276 INFO /usr/local/bin/bench new-site buy.bespo.et
+2025-06-01 14:52:29,215 INFO /usr/local/bin/bench new-site buy.bespo.et
+2025-06-01 14:52:43,720 INFO /usr/local/bin/bench drop-site buy.bespo.et
+2025-06-01 14:52:53,279 INFO /usr/local/bin/bench drop-site buy.bespo.et --force
+2025-06-01 14:53:29,542 INFO /usr/local/bin/bench new-site buy.bespo.et
+2025-06-01 14:54:41,571 INFO /usr/local/bin/bench start
+2025-06-01 14:54:43,149 INFO /usr/local/bin/bench watch
+2025-06-01 14:54:43,150 INFO /usr/local/bin/bench serve --port 8000
+2025-06-01 14:54:43,172 INFO /usr/local/bin/bench worker
+2025-06-01 14:54:43,179 INFO /usr/local/bin/bench schedule
+2025-06-01 14:55:37,600 INFO /usr/local/bin/bench get-app payments
+2025-06-01 14:55:37,971 LOG Getting payments
+2025-06-01 14:55:37,971 DEBUG cd ./apps && git clone https://github.com/frappe/payments.git  --depth 1 --origin upstream
+2025-06-01 14:55:38,592 LOG Installing payments
+2025-06-01 14:55:38,593 DEBUG cd /home/bespoerp/frappe-bench && /home/bespoerp/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/bespoerp/frappe-bench/apps/payments 
+2025-06-01 14:55:45,839 DEBUG bench build --app payments
+2025-06-01 14:55:46,123 INFO /usr/local/bin/bench build --app payments
+2025-06-01 14:55:57,695 DEBUG cd /home/bespoerp/frappe-bench && sudo supervisorctl restart frappe:
+2025-06-01 14:55:57,952 WARNING cd /home/bespoerp/frappe-bench && sudo supervisorctl restart frappe: executed with exit code 2
+2025-06-01 14:55:57,953 WARNING restarting supervisor group `frappe:` failed. Use `bench restart` to retry.
+2025-06-01 14:56:12,390 INFO /usr/local/bin/bench get-app --branch version-15 erpnext
+2025-06-01 14:56:12,794 LOG Getting erpnext
+2025-06-01 14:56:12,794 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git --branch version-15 --depth 1 --origin upstream
+2025-06-01 14:56:17,303 LOG Installing erpnext
+2025-06-01 14:56:17,304 DEBUG cd /home/bespoerp/frappe-bench && /home/bespoerp/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/bespoerp/frappe-bench/apps/erpnext 
+2025-06-01 14:56:25,060 DEBUG cd /home/bespoerp/frappe-bench/apps/erpnext && yarn install --check-files
+2025-06-01 14:56:25,659 DEBUG bench build --app erpnext
+2025-06-01 14:56:25,834 INFO /usr/local/bin/bench build --app erpnext
+2025-06-01 14:56:32,990 DEBUG cd /home/bespoerp/frappe-bench && sudo supervisorctl restart frappe:
+2025-06-01 14:56:33,352 WARNING cd /home/bespoerp/frappe-bench && sudo supervisorctl restart frappe: executed with exit code 2
+2025-06-01 14:56:33,352 WARNING restarting supervisor group `frappe:` failed. Use `bench restart` to retry.
+2025-06-01 14:56:46,253 INFO /usr/local/bin/bench get-app hrms
+2025-06-01 14:56:46,689 LOG Getting hrms
+2025-06-01 14:56:46,689 DEBUG cd ./apps && git clone https://github.com/frappe/hrms.git  --depth 1 --origin upstream
+2025-06-01 14:56:48,664 LOG Installing hrms
+2025-06-01 14:56:48,665 DEBUG cd /home/bespoerp/frappe-bench && /home/bespoerp/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/bespoerp/frappe-bench/apps/hrms 
+2025-06-01 14:56:51,862 DEBUG cd /home/bespoerp/frappe-bench/apps/hrms && yarn install --check-files
+2025-06-01 14:57:30,578 DEBUG bench build --app hrms
+2025-06-01 14:57:30,738 INFO /usr/local/bin/bench build --app hrms
+2025-06-01 14:58:36,007 DEBUG cd /home/bespoerp/frappe-bench && sudo supervisorctl restart frappe:
+2025-06-01 14:58:36,312 WARNING cd /home/bespoerp/frappe-bench && sudo supervisorctl restart frappe: executed with exit code 2
+2025-06-01 14:58:36,313 WARNING restarting supervisor group `frappe:` failed. Use `bench restart` to retry.
+2025-06-01 14:58:56,848 INFO /usr/local/bin/bench --site buy.bespo.et install-app erpnext
+2025-06-01 15:00:23,220 INFO /usr/local/bin/bench --site buy.bespo.et install-app hrms
+2025-06-01 15:03:05,653 INFO /usr/local/bin/bench --site buy.bespo.et install-app hrms
+2025-06-01 15:03:34,455 INFO /usr/local/bin/bench --site buy.bespo.et install-app hrms
+2025-06-01 15:03:46,691 INFO /usr/local/bin/bench --site buy.bespo.et uninstall-app hrms
+2025-06-01 15:04:20,537 INFO /usr/local/bin/bench remove-app hrms
+2025-06-01 15:04:20,707 INFO /usr/local/bin/bench --site all list-apps --format json
+2025-06-01 15:04:21,618 INFO /usr/local/bin/bench --site buy.bespo.et list-apps
+2025-06-01 15:04:22,561 WARNING /usr/local/bin/bench remove-app hrms executed with exit code 1
+2025-06-01 15:04:34,922 INFO /usr/local/bin/bench --site buy.bespo.et uninstall-app hrms
+2025-06-01 15:05:29,317 INFO /usr/local/bin/bench setup redis
+2025-06-01 15:06:04,132 INFO /usr/local/bin/bench --site buy.bespo.et uninstall-app hrms
+2025-06-01 15:07:48,680 INFO /usr/local/bin/bench setup supervisor
+2025-06-01 15:07:48,930 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2025-06-01 15:07:48,930 LOG Updated supervisord.conf: 'chown' changed from '' to 'bespoerp:bespoerp'
+2025-06-01 15:07:52,168 INFO /usr/local/bin/bench schedule
+2025-06-01 15:07:52,174 INFO /usr/local/bin/bench worker --queue long,default,short
+2025-06-01 15:07:52,242 INFO /usr/local/bin/bench worker --queue short,default
+2025-06-01 15:10:46,618 INFO /usr/local/bin/bench --site buy.bespo.et uninstall-app hrms
+2025-06-01 15:11:23,092 INFO /usr/local/bin/bench --site buy.bespo.et install-app hrms
+2025-06-01 15:13:30,297 INFO /usr/local/bin/bench start
+2025-06-01 15:16:44,625 INFO /usr/local/bin/bench start
+2025-06-01 15:16:45,743 INFO /usr/local/bin/bench watch
+2025-06-01 15:16:45,746 INFO /usr/local/bin/bench worker
+2025-06-01 15:16:45,750 INFO /usr/local/bin/bench serve --port 8000
+2025-06-01 15:16:45,780 INFO /usr/local/bin/bench schedule
+2025-06-01 15:19:53,862 INFO /usr/local/bin/bench list-sites
+2025-06-01 15:20:25,636 INFO /usr/local/bin/bench setup nginx
+2025-06-01 15:24:15,473 INFO /usr/local/bin/bench start
+2025-06-01 15:24:16,738 INFO /usr/local/bin/bench schedule
+2025-06-01 15:24:16,742 INFO /usr/local/bin/bench serve --port 8000
+2025-06-01 15:24:16,752 INFO /usr/local/bin/bench watch
+2025-06-01 15:24:16,778 INFO /usr/local/bin/bench worker
+2025-06-01 15:24:55,122 INFO /usr/local/bin/bench use buy.bespo.et
+2025-06-01 15:25:11,973 INFO /usr/local/bin/bench start
+2025-06-01 15:25:13,190 INFO /usr/local/bin/bench serve --port 8000
+2025-06-01 15:25:13,185 INFO /usr/local/bin/bench watch
+2025-06-01 15:25:13,218 INFO /usr/local/bin/bench schedule
+2025-06-01 15:25:13,237 INFO /usr/local/bin/bench worker
+2025-06-01 15:34:42,268 INFO /usr/local/bin/bench --site buy.bespo.et data-import --file acc.json
+2025-06-01 15:35:10,934 INFO /usr/local/bin/bench --site buy.bespo.et data-import --file acc.json
+2025-06-01 15:36:30,926 INFO /usr/local/bin/bench --site buy.bespo.et data-import --file /home/bespoerp/frappe-bench/acc.json
+2025-06-01 15:36:42,721 INFO /usr/local/bin/bench --site buy.bespo.et data-import --type Account --file acc.json
+2025-06-01 15:37:19,176 INFO /usr/local/bin/bench --site buy.bespo.et data-import --doctype Account --file /home/bespoerp/frappe-bench/acc.json
+2025-06-01 16:15:41,008 INFO /usr/local/bin/bench --site buy.bespo.et enable-scheduler
+2025-06-01 16:16:10,887 INFO /usr/local/bin/bench --site buy.bespo.et set-maintenance-mode off
+2025-06-01 16:16:35,638 INFO /usr/local/bin/bench setup production bespoerp
+2025-06-01 16:16:35,661 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2025-06-01 16:16:35,662 LOG Updated supervisord.conf: 'chown' changed from '' to 'bespoerp:bespoerp'
+2025-06-01 16:16:45,777 DEBUG /usr/bin/supervisorctl reread
+2025-06-01 16:16:46,562 DEBUG /usr/bin/supervisorctl update
+2025-06-01 16:16:46,945 DEBUG sudo /usr/sbin/nginx -t
+2025-06-01 16:16:46,962 WARNING sudo /usr/sbin/nginx -t executed with exit code 1
+2025-06-01 16:16:46,963 WARNING /usr/local/bin/bench setup production bespoerp executed with exit code 1
+2025-06-01 16:18:58,811 INFO /usr/local/bin/bench setup production
+2025-06-01 16:18:58,811 WARNING superuser privileges required for this command
+2025-06-01 16:19:09,447 INFO /usr/local/bin/bench setup production
+2025-06-01 16:19:09,463 WARNING /usr/local/bin/bench setup production executed with exit code 2
+2025-06-01 16:19:28,281 INFO /usr/local/bin/bench setup production bespoerp
+2025-06-01 16:19:28,289 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2025-06-01 16:19:28,290 LOG Updated supervisord.conf: 'chown' changed from '' to 'bespoerp:bespoerp'
+2025-06-01 16:19:32,968 DEBUG /usr/bin/supervisorctl reread
+2025-06-01 16:19:33,445 DEBUG /usr/bin/supervisorctl update
+2025-06-01 16:19:33,690 DEBUG sudo /usr/sbin/nginx -t
+2025-06-01 16:19:33,711 WARNING sudo /usr/sbin/nginx -t executed with exit code 1
+2025-06-01 16:19:33,711 WARNING /usr/local/bin/bench setup production bespoerp executed with exit code 1
+2025-06-01 16:21:34,105 INFO /usr/local/bin/bench setup production bespoerp
+2025-06-01 16:21:34,113 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2025-06-01 16:21:34,113 LOG Updated supervisord.conf: 'chown' changed from '' to 'bespoerp:bespoerp'
+2025-06-01 16:21:51,680 DEBUG /usr/bin/supervisorctl reread
+2025-06-01 16:21:51,920 DEBUG /usr/bin/supervisorctl update
+2025-06-01 16:21:52,194 DEBUG sudo /usr/sbin/nginx -t
+2025-06-01 16:21:52,221 DEBUG sudo systemctl reload nginx
+2025-06-01 16:22:17,404 INFO /usr/local/bin/bench setup nginx
+2025-06-01 16:22:45,706 INFO /usr/local/bin/bench worker --queue short,default
+2025-06-01 16:22:45,715 INFO /usr/local/bin/bench schedule
+2025-06-01 16:22:45,717 INFO /usr/local/bin/bench worker --queue long,default,short
+2025-06-01 16:25:13,223 INFO /usr/local/bin/bench setup lets-encrypt buy.bespo.et
+2025-06-01 16:25:13,224 WARNING superuser privileges required for this command
+2025-06-01 16:25:19,064 INFO /usr/local/bin/bench setup lets-encrypt buy.bespo.et
+2025-06-01 16:27:24,905 INFO /usr/local/bin/bench setup lets-encrypt buy.bespo.et
+2025-06-01 16:27:24,905 WARNING superuser privileges required for this command
+2025-06-01 16:27:30,423 INFO /usr/local/bin/bench setup lets-encrypt buy.bespo.et
+2025-06-01 16:27:33,241 DEBUG sudo systemctl stop nginx
+2025-06-01 16:27:33,342 DEBUG /usr/bin/certbot  --config /etc/letsencrypt/configs/buy.bespo.et.cfg certonly
+2025-06-01 16:27:53,584 DEBUG sudo systemctl start nginx
+2025-06-01 16:48:22,608 INFO /usr/local/bin/bench --site buy.bespo.et data-import --file erpnext_accounting_config.json --type Insert
+2025-06-01 16:49:37,139 INFO /usr/local/bin/bench --site buy.bespo.et data-import --file erpnext_accounting_config.json --type Insert
+2025-06-01 16:51:16,346 INFO /usr/local/bin/bench --site buy.bespo.et data-import --file erpnext_accounting_config.json --type Insert
+2025-06-01 16:51:59,157 INFO /usr/local/bin/bench --site buy.bespo.et execute frappe.client.insert --args {"doctype": "Company", "company_name": "Ethiopian Company", "abbr": "ETH", "default_currency": "ETB", "country": "Ethiopia"}
+2025-06-01 16:53:25,691 INFO /usr/local/bin/bench --site buy.bespo.et console
+2025-06-01 17:03:42,467 INFO /usr/local/bin/bench --site buy.bespo.et console
+2025-06-01 17:20:49,943 INFO /usr/local/bin/bench --site buy.bespo.et console
+2025-06-01 17:24:56,275 INFO /usr/local/bin/bench --site buy.bespo.et execute frappe.client.set_value --doctype Selling Settings --name Selling Settings --fieldname allow_multiple_items --value 1
+2025-06-01 17:29:17,068 INFO /usr/local/bin/bench --site buy.bespo.et execute frappe.client.set_value --doctype Selling Settings --name Selling Settings --fieldname allow_multiple_items --value 1
+2025-06-01 17:29:20,907 INFO /usr/local/bin/bench --site buy.bespo.et console
+2025-06-01 18:00:02,590 INFO /usr/local/bin/bench --verbose --site all backup
+2025-06-01 19:31:18,995 INFO /usr/local/bin/bench --site buy.bespo.et console
+2025-06-02 00:00:04,866 INFO /usr/local/bin/bench --verbose --site all backup
+2025-06-02 06:00:04,076 INFO /usr/local/bin/bench --verbose --site all backup
+2025-06-02 12:00:03,053 INFO /usr/local/bin/bench --verbose --site all backup

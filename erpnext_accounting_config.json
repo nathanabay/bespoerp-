@@ -1,0 +1,3 @@
+
+{ "doctype": "Company", "company_name": "Ethiopian Company", "abbr": "ETH", "default_currency": "ETB", "country": "Ethiopia", "create_chart_of_accounts_based_on": "Standard Template", "chart_of_accounts": "Ethiopia" }
+

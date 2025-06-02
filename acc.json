@@ -1,0 +1,145 @@
+{
+  "tax": {
+    "vatRate": 15,
+    "vatAccount": "2141 - VAT Payable",
+    "enableVATExemptions": true,
+    "serviceWithholdingRate": 2,
+    "goodsWithholdingRate": 3,
+    "withholdingAccount": "2151 - Withholding Tax Payable"
+  },
+  "accounts": {
+    "currency": "ETB",
+    "fiscalYearStart": "July",
+    "enableEthiopianCalendar": true
+  },
+  "invoicing": {
+    "salesPrefix": "SI-ETH-",
+    "purchasePrefix": "PI-ETH-",
+    "numberPadding": 5,
+    "includeYear": true
+  },
+  "chartOfAccounts": {
+    "1000": {
+      "name": "Assets",
+      "type": "Asset",
+      "accounts": {
+        "1100": {
+          "name": "Current Assets",
+          "type": "Asset"
+        },
+        "1110": {
+          "name": "Cash and Cash Equivalents",
+          "type": "Asset"
+        },
+        "1120": {
+          "name": "Accounts Receivable",
+          "type": "Asset"
+        },
+        "1130": {
+          "name": "Inventory",
+          "type": "Asset"
+        },
+        "1200": {
+          "name": "Non-Current Assets",
+          "type": "Asset"
+        },
+        "1210": {
+          "name": "Property, Plant & Equipment",
+          "type": "Asset"
+        },
+        "1220": {
+          "name": "Intangible Assets",
+          "type": "Asset"
+        }
+      }
+    },
+    "2000": {
+      "name": "Liabilities",
+      "type": "Liability",
+      "accounts": {
+        "2100": {
+          "name": "Current Liabilities",
+          "type": "Liability"
+        },
+        "2110": {
+          "name": "Accounts Payable",
+          "type": "Liability"
+        },
+        "2141": {
+          "name": "VAT Payable",
+          "type": "Liability"
+        },
+        "2151": {
+          "name": "Withholding Tax Payable",
+          "type": "Liability"
+        },
+        "2160": {
+          "name": "Pension Payable",
+          "type": "Liability"
+        },
+        "2200": {
+          "name": "Non-Current Liabilities",
+          "type": "Liability"
+        }
+      }
+    },
+    "3000": {
+      "name": "Equity",
+      "type": "Equity",
+      "accounts": {
+        "3100": {
+          "name": "Share Capital",
+          "type": "Equity"
+        },
+        "3200": {
+          "name": "Retained Earnings",
+          "type": "Equity"
+        },
+        "3300": {
+          "name": "Legal Reserve",
+          "type": "Equity"
+        }
+      }
+    },
+    "4000": {
+      "name": "Revenue",
+      "type": "Income",
+      "accounts": {
+        "4100": {
+          "name": "Sales Revenue",
+          "type": "Income"
+        },
+        "4200": {
+          "name": "Service Revenue",
+          "type": "Income"
+        },
+        "4300": {
+          "name": "Other Income",
+          "type": "Income"
+        }
+      }
+    },
+    "5000": {
+      "name": "Expenses",
+      "type": "Expense",
+      "accounts": {
+        "5100": {
+          "name": "Cost of Goods Sold",
+          "type": "Expense"
+        },
+        "5200": {
+          "name": "Operating Expenses",
+          "type": "Expense"
+        },
+        "5300": {
+          "name": "Administrative Expenses",
+          "type": "Expense"
+        },
+        "5400": {
+          "name": "Tax Expenses",
+          "type": "Expense"
+        }
+      }
+    }
+  }
+}

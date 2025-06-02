@@ -1,0 +1,12 @@
+{
+ "db_name": "_a7b82aa3b1f4db5d",
+ "db_password": "Kyxa247QPM03loi8",
+ "db_type": "mariadb",
+ "encryption_key": "WyOI1OEudpdpz7Jgz6At6T8IK_0KFvRp4oDm2iFi7V8=",
+ "maintenance_mode": 0,
+ "user_type_doctype_limit": {
+  "employee_self_service": 40
+ },
+ "ssl_certificate": "/etc/letsencrypt/live/buy.bespo.et/fullchain.pem",
+ "ssl_certificate_key": "/etc/letsencrypt/live/buy.bespo.et/privkey.pem"
+}

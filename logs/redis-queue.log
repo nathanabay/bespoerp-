@@ -1,0 +1,152 @@
+363652:C 01 Jun 2025 15:07:50.004 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363652:C 01 Jun 2025 15:07:50.004 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363652, just started
+363652:C 01 Jun 2025 15:07:50.004 # Configuration loaded
+363652:M 01 Jun 2025 15:07:50.018 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363652:M 01 Jun 2025 15:07:50.018 * monotonic clock: POSIX clock_gettime
+363652:M 01 Jun 2025 15:07:50.023 * Running mode=standalone, port=11000.
+363652:M 01 Jun 2025 15:07:50.034 # Server initialized
+363652:M 01 Jun 2025 15:07:50.047 * Loading RDB produced by version 7.0.15
+363652:M 01 Jun 2025 15:07:50.047 * RDB age 663 seconds
+363652:M 01 Jun 2025 15:07:50.047 * RDB memory usage when created 1.25 Mb
+363652:M 01 Jun 2025 15:07:50.048 * Done loading RDB, keys loaded: 8, keys expired: 1.
+363652:M 01 Jun 2025 15:07:50.048 * DB loaded from disk: 0.013 seconds
+363652:M 01 Jun 2025 15:07:50.048 * Ready to accept connections
+363652:signal-handler (1748790470) Received SIGTERM scheduling shutdown...
+363652:M 01 Jun 2025 15:07:50.454 # User requested shutdown...
+363652:M 01 Jun 2025 15:07:50.454 * Saving the final RDB snapshot before exiting.
+363652:M 01 Jun 2025 15:07:50.467 * DB saved on disk
+363652:M 01 Jun 2025 15:07:50.467 * Removing the pid file.
+363652:M 01 Jun 2025 15:07:50.467 # Redis is now ready to exit, bye bye...
+363672:C 01 Jun 2025 15:07:50.564 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363672:C 01 Jun 2025 15:07:50.564 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363672, just started
+363672:C 01 Jun 2025 15:07:50.564 # Configuration loaded
+363672:M 01 Jun 2025 15:07:50.571 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363672:M 01 Jun 2025 15:07:50.571 * monotonic clock: POSIX clock_gettime
+363672:M 01 Jun 2025 15:07:50.573 * Running mode=standalone, port=11000.
+363672:M 01 Jun 2025 15:07:50.573 # Server initialized
+363672:M 01 Jun 2025 15:07:50.580 * Loading RDB produced by version 7.0.15
+363672:M 01 Jun 2025 15:07:50.581 * RDB age 0 seconds
+363672:M 01 Jun 2025 15:07:50.581 * RDB memory usage when created 0.84 Mb
+363672:M 01 Jun 2025 15:07:50.581 * Done loading RDB, keys loaded: 8, keys expired: 0.
+363672:M 01 Jun 2025 15:07:50.582 * DB loaded from disk: 0.002 seconds
+363672:M 01 Jun 2025 15:07:50.582 * Ready to accept connections
+363672:M 01 Jun 2025 15:12:51.018 * 100 changes in 300 seconds. Saving...
+363672:M 01 Jun 2025 15:12:51.019 * Background saving started by pid 364080
+364080:C 01 Jun 2025 15:12:51.029 * DB saved on disk
+364080:C 01 Jun 2025 15:12:51.030 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+363672:M 01 Jun 2025 15:12:51.119 * Background saving terminated with success
+363672:signal-handler (1748790881) Received SIGTERM scheduling shutdown...
+363672:M 01 Jun 2025 15:14:41.890 # User requested shutdown...
+363672:M 01 Jun 2025 15:14:41.890 * Saving the final RDB snapshot before exiting.
+363672:M 01 Jun 2025 15:14:41.902 * DB saved on disk
+363672:M 01 Jun 2025 15:14:41.902 * Removing the pid file.
+363672:M 01 Jun 2025 15:14:41.903 # Redis is now ready to exit, bye bye...
+364138:C 01 Jun 2025 15:14:41.963 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364138:C 01 Jun 2025 15:14:41.963 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364138, just started
+364138:C 01 Jun 2025 15:14:41.963 # Configuration loaded
+364138:M 01 Jun 2025 15:14:41.963 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364138:M 01 Jun 2025 15:14:41.963 * monotonic clock: POSIX clock_gettime
+364138:M 01 Jun 2025 15:14:41.965 * Running mode=standalone, port=11000.
+364138:M 01 Jun 2025 15:14:41.965 # Server initialized
+364138:M 01 Jun 2025 15:14:41.967 * Loading RDB produced by version 7.0.15
+364138:M 01 Jun 2025 15:14:41.967 * RDB age 0 seconds
+364138:M 01 Jun 2025 15:14:41.967 * RDB memory usage when created 1.81 Mb
+364138:M 01 Jun 2025 15:14:41.969 * Done loading RDB, keys loaded: 110, keys expired: 0.
+364138:M 01 Jun 2025 15:14:41.969 * DB loaded from disk: 0.002 seconds
+364138:M 01 Jun 2025 15:14:41.969 * Ready to accept connections
+364171:C 01 Jun 2025 15:15:46.748 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364171:C 01 Jun 2025 15:15:46.748 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364171, just started
+364171:C 01 Jun 2025 15:15:46.748 # Configuration loaded
+364171:M 01 Jun 2025 15:15:46.748 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364171:M 01 Jun 2025 15:15:46.748 * monotonic clock: POSIX clock_gettime
+364171:M 01 Jun 2025 15:15:46.750 * Running mode=standalone, port=11000.
+364171:M 01 Jun 2025 15:15:46.750 # Server initialized
+364171:M 01 Jun 2025 15:15:46.754 * Loading RDB produced by version 7.0.15
+364171:M 01 Jun 2025 15:15:46.754 * RDB age 65 seconds
+364171:M 01 Jun 2025 15:15:46.754 * RDB memory usage when created 1.81 Mb
+364171:M 01 Jun 2025 15:15:46.756 * Done loading RDB, keys loaded: 110, keys expired: 0.
+364171:M 01 Jun 2025 15:15:46.756 * DB loaded from disk: 0.002 seconds
+364171:M 01 Jun 2025 15:15:46.756 * Ready to accept connections
+364171:signal-handler (1748790994) Received SIGTERM scheduling shutdown...
+364171:M 01 Jun 2025 15:16:34.123 # User requested shutdown...
+364171:M 01 Jun 2025 15:16:34.123 * Saving the final RDB snapshot before exiting.
+364171:M 01 Jun 2025 15:16:34.139 * DB saved on disk
+364171:M 01 Jun 2025 15:16:34.139 * Removing the pid file.
+364171:M 01 Jun 2025 15:16:34.139 # Redis is now ready to exit, bye bye...
+365302:C 01 Jun 2025 16:22:44.226 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365302:C 01 Jun 2025 16:22:44.226 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365302, just started
+365302:C 01 Jun 2025 16:22:44.226 # Configuration loaded
+365302:M 01 Jun 2025 16:22:44.226 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365302:M 01 Jun 2025 16:22:44.226 * monotonic clock: POSIX clock_gettime
+365302:M 01 Jun 2025 16:22:44.226 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365302:M 01 Jun 2025 16:22:44.226 # Failed listening on port 11000 (TCP), aborting.
+365315:C 01 Jun 2025 16:22:45.438 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365315:C 01 Jun 2025 16:22:45.438 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365315, just started
+365315:C 01 Jun 2025 16:22:45.438 # Configuration loaded
+365315:M 01 Jun 2025 16:22:45.438 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365315:M 01 Jun 2025 16:22:45.438 * monotonic clock: POSIX clock_gettime
+365315:M 01 Jun 2025 16:22:45.438 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365315:M 01 Jun 2025 16:22:45.438 # Failed listening on port 11000 (TCP), aborting.
+365323:C 01 Jun 2025 16:22:47.696 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365323:C 01 Jun 2025 16:22:47.697 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365323, just started
+365323:C 01 Jun 2025 16:22:47.697 # Configuration loaded
+365323:M 01 Jun 2025 16:22:47.697 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365323:M 01 Jun 2025 16:22:47.697 * monotonic clock: POSIX clock_gettime
+365323:M 01 Jun 2025 16:22:47.712 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365323:M 01 Jun 2025 16:22:47.712 # Failed listening on port 11000 (TCP), aborting.
+365334:C 01 Jun 2025 16:22:51.646 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365334:C 01 Jun 2025 16:22:51.646 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365334, just started
+365334:C 01 Jun 2025 16:22:51.646 # Configuration loaded
+365334:M 01 Jun 2025 16:22:51.648 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365334:M 01 Jun 2025 16:22:51.648 * monotonic clock: POSIX clock_gettime
+365334:M 01 Jun 2025 16:22:51.648 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365334:M 01 Jun 2025 16:22:51.648 # Failed listening on port 11000 (TCP), aborting.
+365350:C 01 Jun 2025 16:22:56.701 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365350:C 01 Jun 2025 16:22:56.701 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365350, just started
+365350:C 01 Jun 2025 16:22:56.701 # Configuration loaded
+365350:M 01 Jun 2025 16:22:56.702 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365350:M 01 Jun 2025 16:22:56.702 * monotonic clock: POSIX clock_gettime
+365350:M 01 Jun 2025 16:22:56.702 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365350:M 01 Jun 2025 16:22:56.702 # Failed listening on port 11000 (TCP), aborting.
+365374:C 01 Jun 2025 16:23:01.884 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365374:C 01 Jun 2025 16:23:01.884 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365374, just started
+365374:C 01 Jun 2025 16:23:01.884 # Configuration loaded
+365374:M 01 Jun 2025 16:23:01.886 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365374:M 01 Jun 2025 16:23:01.886 * monotonic clock: POSIX clock_gettime
+365374:M 01 Jun 2025 16:23:01.886 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365374:M 01 Jun 2025 16:23:01.886 # Failed listening on port 11000 (TCP), aborting.
+365391:C 01 Jun 2025 16:23:08.155 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365391:C 01 Jun 2025 16:23:08.155 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365391, just started
+365391:C 01 Jun 2025 16:23:08.155 # Configuration loaded
+365391:M 01 Jun 2025 16:23:08.155 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365391:M 01 Jun 2025 16:23:08.155 * monotonic clock: POSIX clock_gettime
+365391:M 01 Jun 2025 16:23:08.157 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365391:M 01 Jun 2025 16:23:08.157 # Failed listening on port 11000 (TCP), aborting.
+365415:C 01 Jun 2025 16:23:15.769 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365415:C 01 Jun 2025 16:23:15.771 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365415, just started
+365415:C 01 Jun 2025 16:23:15.771 # Configuration loaded
+365415:M 01 Jun 2025 16:23:15.771 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365415:M 01 Jun 2025 16:23:15.771 * monotonic clock: POSIX clock_gettime
+365415:M 01 Jun 2025 16:23:15.772 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365415:M 01 Jun 2025 16:23:15.772 # Failed listening on port 11000 (TCP), aborting.
+365439:C 01 Jun 2025 16:23:23.875 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365439:C 01 Jun 2025 16:23:23.877 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365439, just started
+365439:C 01 Jun 2025 16:23:23.877 # Configuration loaded
+365439:M 01 Jun 2025 16:23:23.879 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365439:M 01 Jun 2025 16:23:23.879 * monotonic clock: POSIX clock_gettime
+365439:M 01 Jun 2025 16:23:23.879 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365439:M 01 Jun 2025 16:23:23.879 # Failed listening on port 11000 (TCP), aborting.
+365492:C 01 Jun 2025 16:23:34.229 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365492:C 01 Jun 2025 16:23:34.229 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365492, just started
+365492:C 01 Jun 2025 16:23:34.229 # Configuration loaded
+365492:M 01 Jun 2025 16:23:34.230 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365492:M 01 Jun 2025 16:23:34.230 * monotonic clock: POSIX clock_gettime
+365492:M 01 Jun 2025 16:23:34.230 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365492:M 01 Jun 2025 16:23:34.230 # Failed listening on port 11000 (TCP), aborting.
+365538:C 01 Jun 2025 16:23:45.019 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365538:C 01 Jun 2025 16:23:45.019 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365538, just started
+365538:C 01 Jun 2025 16:23:45.019 # Configuration loaded
+365538:M 01 Jun 2025 16:23:45.021 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365538:M 01 Jun 2025 16:23:45.022 * monotonic clock: POSIX clock_gettime
+365538:M 01 Jun 2025 16:23:45.023 # Warning: Could not create server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+365538:M 01 Jun 2025 16:23:45.023 # Failed listening on port 11000 (TCP), aborting.

@@ -1,0 +1,478 @@
+2025-06-01 17:03:39,366 INFO ipython === bench console session ===
+2025-06-01 17:03:39,366 INFO ipython bench --site buy.bespo.et execute frappe.client.insert --args '{"doctype": "Company", "company_name": "Ethiopian Company", "abbr": "ETH", "default_currency": "ETB", "country": "Ethiopia"}'
+2025-06-01 17:03:39,366 INFO ipython import frappe
+
+company_doc = frappe.get_doc({
+    "doctype": "Company",
+    "company_name": "bespo ems plc",
+    "abbr": "BES",
+    "default_currency": "ETB",
+    "country": "Ethiopia"
+})
+company_doc.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,366 INFO ipython import frappe
+
+company_doc = frappe.get_doc({
+    "doctype": "Company",
+    "company_name": "bespo ems plc",
+    "abbr": "BES",
+    "default_currency": "ETB",
+    "country": "Ethiopia"
+})
+company_doc.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,366 INFO ipython vat_account = frappe.get_doc({
+    "doctype": "Account",
+    "account_name": "VAT",
+    "parent_account": "Duties and Taxes - BES",
+    "account_type": "Tax",
+    "company": "bespo ems plc"
+})
+vat_account.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,366 INFO ipython # Check existing accounts for your company
+accounts = frappe.get_list("Account", filters={"company": "bespo ems plc"}, fields=["name", "account_name", "account_type"])
+for account in accounts[:10]:  # Show first 10 accounts
+    print(account)
+    
+2025-06-01 17:03:39,366 INFO ipython # Create Duties and Taxes parent account
+duties_taxes = frappe.get_doc({
+    "doctype": "Account",
+    "account_name": "Duties and Taxes",
+    "parent_account": "Current Liabilities - BES",
+    "account_type": "Tax",
+    "company": "bespo ems plc",
+    "is_group": 1
+})
+duties_taxes.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,367 INFO ipython # Check for liabilities accounts
+liabilities = frappe.get_list("Account", 
+    filters={"company": "bespo ems plc", "account_name": ["like", "%Liabilities%"]}, 
+    fields=["name", "account_name", "account_type"])
+for account in liabilities:
+    print(account)
+    
+2025-06-01 17:03:39,367 INFO ipython # Check for tax accounts
+tax_accounts = frappe.get_list("Account", 
+    filters={"company": "bespo ems plc", "account_name": ["like", "%Tax%"]}, 
+    fields=["name", "account_name", "account_type"])
+for account in tax_accounts:
+    print(account)
+    
+2025-06-01 17:03:39,367 INFO ipython # Create VAT account under the existing Duties and Taxes account
+vat_account = frappe.get_doc({
+    "doctype": "Account",
+    "account_name": "VAT",
+    "parent_account": "Duties and Taxes - BEP",
+    "account_type": "Tax",
+    "company": "bespo ems plc"
+})
+vat_account.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,367 INFO ipython # Create Ethiopian VAT 15% Tax Template
+tax_template = frappe.get_doc({
+    "doctype": "Item Tax Template",
+    "title": "Ethiopian VAT 15%",
+    "taxes": [{"tax_type": "VAT - BEP", "tax_rate": 15}]
+})
+tax_template.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,367 INFO ipython # Create Withholding Tax Category
+wht_category = frappe.get_doc({
+    "! The "Duties and Taxes - BEP" account already exists. Now we can create the VAT account under it:
+
+```python
+# Create VAT account under the existing Duties and Taxes account
+vat_account = frappe.get_doc({
+    "doctype": "Account",
+    "account_name": "VAT",
+    "parent_account": "Duties and Taxes - BEP",
+    "account_type": "Tax",
+    "company": "bespo ems plc"
+})
+vat_account.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,367 INFO ipython # Create Withholding Tax Category for Ethiopian compliance
+wht_category = frappe.get_doc({
+    "doctype": "Tax Withholding Category",
+    "name": "WHT Services",
+    "category_name": "Withholding Tax on Services"
+})
+wht_category.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,367 INFO ipython sales_tax_template = frappe.get_doc({
+    "doctype": "Sales Taxes and Charges Template",
+    "title": "Ethiopian Standard Tax",
+    "taxes": [{
+        "charge_type": "On Net Total",
+        "account_head": "VAT - BEP",
+        "rate": 15,
+        "description": "Ethiopian VAT 15%"
+    }]
+})
+sales_tax_template.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,367 INFO ipython # Create Withholding Tax Category with required fields
+wht_category = frappe.get_doc({
+    "doctype": "Tax Withholding Category",
+    "name": "WHT Services",
+    "category_name": "Withholding Tax on Services",
+    "rates": [{
+        "from_date": "2024-01-01",
+        "tax_withholding_rate": 2
+    }],
+    "accounts": [{
+        "company": "bespo ems plc",
+        "account": "VAT - BEP"
+    }]
+})
+wht_category.insert()
+frappe.db.commit()
+2025-06-01 17:03:39,367 INFO ipython === session end ===
+2025-06-01 17:20:46,906 INFO ipython === bench console session ===
+2025-06-01 17:20:46,906 INFO ipython wht_category = frappe.get_doc({
+    "doctype": "Tax Withholding Category",
+    "name": "WHT Services",
+    "category_name": "Withholding Tax on Services",
+    "rates": [{
+        "from_date": "2024-01-01",
+        "tax_withholding_rate": 2
+    }],
+    "accounts": [{
+        "company": "bespo ems plc",
+        "account": "VAT - BEP"
+    }]
+})
+wht_category.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,907 INFO ipython wht_category = frappe.get_doc({
+    "doctype": "Tax Withholding Category",
+    "name": "WHT Services",
+    "category_name": "Withholding Tax on Services",
+    "rates": [{
+        "from_date": "2024-01-01",
+        "to_date": "2024-12-31",
+        "tax_withholding_rate": 2
+    }],
+    "accounts": [{
+        "company": "bespo ems plc",
+        "account": "VAT - BEP"
+    }]
+})
+wht_category.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,907 INFO ipython purchase_tax_template = frappe.get_doc({
+    "doctype": "Purchase Taxes and Charges Template",
+    "title": "Ethiopian Purchase Tax",
+    "taxes": [{
+        "charge_type": "On Net Total",
+        "account_head": "VAT - BEP",
+        "rate": 15,
+        "description": "Ethiopian VAT 15%"
+    }]
+})
+purchase_tax_template.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,907 INFO ipython pension_employee = frappe.get_doc({
+    "doctype": "Salary Component",
+    "salary_component": "Pension - Employee",
+    "salary_component_abbr": "PE",
+    "type": "Deduction",
+    "amount_based_on_formula": 1,
+    "formula": "base * 0.07",
+    "company": "bespo ems plc"
+})
+pension_employee.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,907 INFO ipython pension_employer = frappe.get_doc({
+    "doctype": "Salary Component",
+    "salary_component": "Pension - Employer",
+    "salary_component_abbr": "PER",
+    "type": "Earning",
+    "amount_based_on_formula": 1,
+    "formula": "base * 0.11",
+    "company": "bespo ems plc"
+})
+pension_employer.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,907 INFO ipython # Set Ethiopian retirement age
+hr_settings = frappe.get_doc("HR Settings", "HR Settings")
+hr_settings.retirement_age = 60
+hr_settings.save()
+frappe.db.commit()
+2025-06-01 17:20:46,907 INFO ipython # Create Ethiopian Income Tax component
+income_tax = frappe.get_doc({
+    "doctype": "Salary Component",
+    "salary_component": "Income Tax",
+    "salary_component_abbr": "IT",
+    "type": "Deduction",
+    "amount_based_on_formula": 1,
+    "formula": "max((base - 600) * 0.1, 0)",  # Basic Ethiopian tax calculation
+    "company": "bespo ems plc"
+})
+income_tax.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,907 INFO ipython # Sales Module - Ethiopian Compliance Settings
+
+# Create Ethiopian Service Tax category
+service_tax = frappe.get_doc({
+    "doctype": "Item Tax Template",
+    "title": "Ethiopian Service Tax 15%",
+    "taxes": [{
+        "tax_type": "VAT - BEP",
+        "tax_rate": 15
+    }]
+})
+service_tax.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,907 INFO ipython # Configure Selling Settings for Ethiopian requirements
+selling_settings = frappe.get_doc("Selling Settings", "Selling Settings")
+selling_settings.allow_multiple_items = 1
+selling_settings.maintain_same_sales_rate = 0
+selling_settings.validate_selling_price = 1
+selling_settings.save()
+frappe.db.commit()
+2025-06-01 17:20:46,907 INFO ipython # Create Customer Group for Ethiopian businesses
+customer_group = frappe.get_doc({
+    "doctype": "Customer Group",
+    "customer_group_name": "Ethiopian Local Business",
+    "is_group": 0,
+    "default_price_list": "Standard Selling"
+})
+customer_group.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,908 INFO ipython # Create Item Group for Ethiopian products/services
+item_group = frappe.get_doc({
+    "doctype": "Item Group",
+    "item_group_name": "Ethiopian Services",
+    "is_group": 0,
+    "default_item_tax_template": "Ethiopian VAT 15%"
+})
+item_group.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,908 INFO ipython # Create Ethiopian Income Tax component
+income_tax = frappe.get_doc({
+    "doctype": "Salary Component",
+    "salary_component": "Income Tax",
+    "salary_component_abbr": "IT",
+    "type": "Deduction",
+    "amount_based_on_formula": 1,
+    "formula": "max((base - 600) * 0.1, 0)",  # Basic Ethiopian tax calculation
+    "company": "bespo ems plc"
+})
+income_tax.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,908 INFO ipython # Configure Selling Settings for Ethiopian requirements
+selling_settings = frappe.get_doc("Selling Settings", "Selling Settings")
+selling_settings.allow_multiple_items = 1
+selling_settings.maintain_same_sales_rate = 0
+selling_settings.validate_selling_price = 1
+selling_settings.save()
+frappe.db.commit()
+2025-06-01 17:20:46,908 INFO ipython # Create Ethiopian Income Tax Slab
+income_tax_slab = frappe.get_doc({
+    "doctype": "Income Tax Slab",
+    "name": "Ethiopian Income Tax 2024",
+    "effective_from": "2024-01-01",
+    "company": "bespo ems plc",
+    "currency": "ETB",
+    "slabs": [
+        {
+            "from_amount": 0,
+            "to_amount": 600,
+            "percent_deduction": 0,
+            "condition": ""
+        },
+        {
+            "from_amount": 601,
+            "to_amount": 1650,
+            "percent_deduction": 10,
+            "condition": ""
+        },
+        {
+            "from_amount": 1651,
+            "to_amount": 3200,
+            "percent_deduction": 15,
+            "condition": ""
+        },
+        {
+            "from_amount": 3201,
+            "to_amount": 5250,
+            "percent_deduction": 20,
+            "condition": ""
+        },
+        {
+            "from_amount": 5251,
+            "to_amount": 7800,
+            "percent_deduction": 25,
+            "condition": ""
+        },
+        {
+            "from_amount": 7801,
+            "to_amount": 10900,
+            "percent_deduction": 30,
+            "condition": ""
+        },
+        {
+            "from_amount": 10901,
+            "to_amount": 0,
+            "percent_deduction": 35,
+            "condition": ""
+        }
+    ]
+})
+income_tax_slab.insert()
+frappe.db.commit()
+2025-06-01 17:20:46,908 INFO ipython === session end ===
+2025-06-01 17:24:52,396 INFO ipython === bench console session ===
+2025-06-01 17:24:52,396 INFO ipython # Create Ethiopian Company
+company_doc = frappe.get_doc({
+
+"doctype": "Company",
+
+"company_name": "Ethiopian Company",
+
+"abbr": "ETH",
+
+"default_currency": "ETB",
+
+"country": "Ethiopia"
+
+})
+
+company_doc.insert()
+
+frappe.db.commit()
+
+
+# Create VAT Tax Account
+vat_account = frappe.get_doc({
+
+"doctype": "Account",
+
+"account_name": "VAT",
+
+"parent_account": "Duties and Taxes - ETH",
+
+"account_type": "Tax",
+
+"company": "Ethiopian Company"
+
+})
+
+vat_account.insert()
+
+frappe.db.commit()
+
+
+# Create VAT 15% Tax Template
+tax_template = frappe.get_doc({
+
+"doctype": "Item Tax Template",
+
+"title": "Ethiopian VAT 15%",
+
+"taxes": [{"tax_type": "VAT - ETH", "tax_rate": 15}]
+
+})
+
+tax_template.insert()
+
+frappe.db.commit()
+2025-06-01 17:24:52,398 INFO ipython # Set Ethiopian retirement age
+hr_settings = frappe.get_doc("HR Settings", "HR Settings")
+
+hr_settings.retirement_age = 60
+
+hr_settings.save()
+
+frappe.db.commit()
+
+
+# Create Pension Employee Component (7%)
+pension_employee = frappe.get_doc({
+
+"doctype": "Salary Component",
+
+"salary_component": "Pension - Employee",
+
+"salary_component_abbr": "PE",
+
+"type": "Deduction",
+
+"amount_based_on_formula": 1,
+
+"formula": "base * 0.07",
+
+"company": "bespo ems plc"
+
+})
+
+pension_employee.insert(ignore_if_duplicate=True)
+
+frappe.db.commit()
+
+
+# Create Pension Employer Component (11%)
+pension_employer = frappe.get_doc({
+
+"doctype": "Salary Component",
+
+"salary_component": "Pension - Employer",
+
+"salary_component_abbr": "PER",
+
+"type": "Earning",
+
+"amount_based_on_formula": 1,
+
+"formula": "base * 0.11",
+
+"company": "bespo ems plc"
+
+})
+
+pension_employer.insert(ignore_if_duplicate=True)
+
+frappe.db.commit()
+
+
+# Create Ethiopian Income Tax Slab
+income_tax_slab = frappe.get_doc({
+
+"doctype": "Income Tax Slab",
+
+"name": "Ethiopian Income Tax 2024",
+
+"effective_from": "2024-01-01",
+
+"company": "bespo ems plc",
+
+"currency": "ETB",
+
+"slabs": [
+
+{"from_amount": 0, "to_amount": 600, "percent_deduction": 0},
+
+{"from_amount": 601, "to_amount": 1650, "percent_deduction": 10},
+
+{"from_amount": 1651, "to_amount": 3200, "percent_deduction": 15},
+
+{"from_amount": 3201, "to_amount": 5250, "percent_deduction": 20},
+
+{"from_amount": 5251, "to_amount": 7800, "percent_deduction": 25},
+
+{"from_amount": 7801, "to_amount": 10900, "percent_deduction": 30},
+
+{"from_amount": 10901, "to_amount": 0, "percent_deduction": 35}
+
+]
+
+})
+
+income_tax_slab.insert(ignore_if_duplicate=True)
+
+frappe.db.commit()
+2025-06-01 17:24:52,398 INFO ipython === session end ===

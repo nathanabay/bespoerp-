@@ -1,0 +1,1257 @@
+363651:C 01 Jun 2025 15:07:50.010 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363651:C 01 Jun 2025 15:07:50.010 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363651, just started
+363651:C 01 Jun 2025 15:07:50.010 # Configuration loaded
+363651:M 01 Jun 2025 15:07:50.024 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363651:M 01 Jun 2025 15:07:50.024 * monotonic clock: POSIX clock_gettime
+363651:M 01 Jun 2025 15:07:50.024 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363651:M 01 Jun 2025 15:07:50.024 # Failed listening on port 13000 (TCP), aborting.
+363671:C 01 Jun 2025 15:07:50.545 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363671:C 01 Jun 2025 15:07:50.545 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363671, just started
+363671:C 01 Jun 2025 15:07:50.545 # Configuration loaded
+363671:M 01 Jun 2025 15:07:50.556 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363671:M 01 Jun 2025 15:07:50.556 * monotonic clock: POSIX clock_gettime
+363671:M 01 Jun 2025 15:07:50.556 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363671:M 01 Jun 2025 15:07:50.556 # Failed listening on port 13000 (TCP), aborting.
+363697:C 01 Jun 2025 15:07:53.563 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363697:C 01 Jun 2025 15:07:53.563 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363697, just started
+363697:C 01 Jun 2025 15:07:53.563 # Configuration loaded
+363697:M 01 Jun 2025 15:07:53.563 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363697:M 01 Jun 2025 15:07:53.563 * monotonic clock: POSIX clock_gettime
+363697:M 01 Jun 2025 15:07:53.563 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363697:M 01 Jun 2025 15:07:53.563 # Failed listening on port 13000 (TCP), aborting.
+363700:C 01 Jun 2025 15:07:56.793 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363700:C 01 Jun 2025 15:07:56.793 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363700, just started
+363700:C 01 Jun 2025 15:07:56.793 # Configuration loaded
+363700:M 01 Jun 2025 15:07:56.793 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363700:M 01 Jun 2025 15:07:56.793 * monotonic clock: POSIX clock_gettime
+363700:M 01 Jun 2025 15:07:56.794 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363700:M 01 Jun 2025 15:07:56.794 # Failed listening on port 13000 (TCP), aborting.
+363704:C 01 Jun 2025 15:08:00.934 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363704:C 01 Jun 2025 15:08:00.934 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363704, just started
+363704:C 01 Jun 2025 15:08:00.934 # Configuration loaded
+363704:M 01 Jun 2025 15:08:00.935 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363704:M 01 Jun 2025 15:08:00.935 * monotonic clock: POSIX clock_gettime
+363704:M 01 Jun 2025 15:08:00.935 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363704:M 01 Jun 2025 15:08:00.935 # Failed listening on port 13000 (TCP), aborting.
+363705:C 01 Jun 2025 15:08:02.959 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363705:C 01 Jun 2025 15:08:02.959 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363705, just started
+363705:C 01 Jun 2025 15:08:02.959 # Configuration loaded
+363705:M 01 Jun 2025 15:08:02.960 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363705:M 01 Jun 2025 15:08:02.960 * monotonic clock: POSIX clock_gettime
+363705:M 01 Jun 2025 15:08:02.960 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363705:M 01 Jun 2025 15:08:02.960 # Failed listening on port 13000 (TCP), aborting.
+363706:C 01 Jun 2025 15:08:03.987 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363706:C 01 Jun 2025 15:08:03.987 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363706, just started
+363706:C 01 Jun 2025 15:08:03.987 # Configuration loaded
+363706:M 01 Jun 2025 15:08:03.988 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363706:M 01 Jun 2025 15:08:03.988 * monotonic clock: POSIX clock_gettime
+363706:M 01 Jun 2025 15:08:03.988 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363706:M 01 Jun 2025 15:08:03.988 # Failed listening on port 13000 (TCP), aborting.
+363707:C 01 Jun 2025 15:08:06.018 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363707:C 01 Jun 2025 15:08:06.018 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363707, just started
+363707:C 01 Jun 2025 15:08:06.018 # Configuration loaded
+363707:M 01 Jun 2025 15:08:06.019 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363707:M 01 Jun 2025 15:08:06.019 * monotonic clock: POSIX clock_gettime
+363707:M 01 Jun 2025 15:08:06.020 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363707:M 01 Jun 2025 15:08:06.020 # Failed listening on port 13000 (TCP), aborting.
+363708:C 01 Jun 2025 15:08:08.044 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363708:C 01 Jun 2025 15:08:08.044 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363708, just started
+363708:C 01 Jun 2025 15:08:08.044 # Configuration loaded
+363708:M 01 Jun 2025 15:08:08.045 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363708:M 01 Jun 2025 15:08:08.045 * monotonic clock: POSIX clock_gettime
+363708:M 01 Jun 2025 15:08:08.045 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363708:M 01 Jun 2025 15:08:08.045 # Failed listening on port 13000 (TCP), aborting.
+363709:C 01 Jun 2025 15:08:10.070 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363709:C 01 Jun 2025 15:08:10.070 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363709, just started
+363709:C 01 Jun 2025 15:08:10.070 # Configuration loaded
+363709:M 01 Jun 2025 15:08:10.071 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363709:M 01 Jun 2025 15:08:10.071 * monotonic clock: POSIX clock_gettime
+363709:M 01 Jun 2025 15:08:10.071 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363709:M 01 Jun 2025 15:08:10.071 # Failed listening on port 13000 (TCP), aborting.
+363710:C 01 Jun 2025 15:08:12.094 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363710:C 01 Jun 2025 15:08:12.094 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363710, just started
+363710:C 01 Jun 2025 15:08:12.094 # Configuration loaded
+363710:M 01 Jun 2025 15:08:12.094 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363710:M 01 Jun 2025 15:08:12.094 * monotonic clock: POSIX clock_gettime
+363710:M 01 Jun 2025 15:08:12.094 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363710:M 01 Jun 2025 15:08:12.094 # Failed listening on port 13000 (TCP), aborting.
+363711:C 01 Jun 2025 15:08:13.118 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363711:C 01 Jun 2025 15:08:13.118 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363711, just started
+363711:C 01 Jun 2025 15:08:13.118 # Configuration loaded
+363711:M 01 Jun 2025 15:08:13.119 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363711:M 01 Jun 2025 15:08:13.119 * monotonic clock: POSIX clock_gettime
+363711:M 01 Jun 2025 15:08:13.119 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363711:M 01 Jun 2025 15:08:13.119 # Failed listening on port 13000 (TCP), aborting.
+363712:C 01 Jun 2025 15:08:15.142 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363712:C 01 Jun 2025 15:08:15.142 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363712, just started
+363712:C 01 Jun 2025 15:08:15.142 # Configuration loaded
+363712:M 01 Jun 2025 15:08:15.143 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363712:M 01 Jun 2025 15:08:15.143 * monotonic clock: POSIX clock_gettime
+363712:M 01 Jun 2025 15:08:15.143 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363712:M 01 Jun 2025 15:08:15.143 # Failed listening on port 13000 (TCP), aborting.
+363713:C 01 Jun 2025 15:08:18.168 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363713:C 01 Jun 2025 15:08:18.168 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363713, just started
+363713:C 01 Jun 2025 15:08:18.168 # Configuration loaded
+363713:M 01 Jun 2025 15:08:18.169 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363713:M 01 Jun 2025 15:08:18.169 * monotonic clock: POSIX clock_gettime
+363713:M 01 Jun 2025 15:08:18.169 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363713:M 01 Jun 2025 15:08:18.169 # Failed listening on port 13000 (TCP), aborting.
+363714:C 01 Jun 2025 15:08:22.194 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363714:C 01 Jun 2025 15:08:22.194 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363714, just started
+363714:C 01 Jun 2025 15:08:22.194 # Configuration loaded
+363714:M 01 Jun 2025 15:08:22.195 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363714:M 01 Jun 2025 15:08:22.195 * monotonic clock: POSIX clock_gettime
+363714:M 01 Jun 2025 15:08:22.195 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363714:M 01 Jun 2025 15:08:22.195 # Failed listening on port 13000 (TCP), aborting.
+363715:C 01 Jun 2025 15:08:24.221 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363715:C 01 Jun 2025 15:08:24.221 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363715, just started
+363715:C 01 Jun 2025 15:08:24.221 # Configuration loaded
+363715:M 01 Jun 2025 15:08:24.221 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363715:M 01 Jun 2025 15:08:24.221 * monotonic clock: POSIX clock_gettime
+363715:M 01 Jun 2025 15:08:24.222 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363715:M 01 Jun 2025 15:08:24.222 # Failed listening on port 13000 (TCP), aborting.
+363716:C 01 Jun 2025 15:08:26.245 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363716:C 01 Jun 2025 15:08:26.245 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363716, just started
+363716:C 01 Jun 2025 15:08:26.245 # Configuration loaded
+363716:M 01 Jun 2025 15:08:26.246 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363716:M 01 Jun 2025 15:08:26.246 * monotonic clock: POSIX clock_gettime
+363716:M 01 Jun 2025 15:08:26.246 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363716:M 01 Jun 2025 15:08:26.246 # Failed listening on port 13000 (TCP), aborting.
+363717:C 01 Jun 2025 15:08:27.268 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363717:C 01 Jun 2025 15:08:27.268 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363717, just started
+363717:C 01 Jun 2025 15:08:27.268 # Configuration loaded
+363717:M 01 Jun 2025 15:08:27.268 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363717:M 01 Jun 2025 15:08:27.268 * monotonic clock: POSIX clock_gettime
+363717:M 01 Jun 2025 15:08:27.268 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363717:M 01 Jun 2025 15:08:27.268 # Failed listening on port 13000 (TCP), aborting.
+363718:C 01 Jun 2025 15:08:29.291 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363718:C 01 Jun 2025 15:08:29.291 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363718, just started
+363718:C 01 Jun 2025 15:08:29.291 # Configuration loaded
+363718:M 01 Jun 2025 15:08:29.292 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363718:M 01 Jun 2025 15:08:29.292 * monotonic clock: POSIX clock_gettime
+363718:M 01 Jun 2025 15:08:29.292 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363718:M 01 Jun 2025 15:08:29.292 # Failed listening on port 13000 (TCP), aborting.
+363719:C 01 Jun 2025 15:08:31.326 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363719:C 01 Jun 2025 15:08:31.326 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363719, just started
+363719:C 01 Jun 2025 15:08:31.326 # Configuration loaded
+363719:M 01 Jun 2025 15:08:31.327 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363719:M 01 Jun 2025 15:08:31.327 * monotonic clock: POSIX clock_gettime
+363719:M 01 Jun 2025 15:08:31.327 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363719:M 01 Jun 2025 15:08:31.327 # Failed listening on port 13000 (TCP), aborting.
+363720:C 01 Jun 2025 15:08:33.350 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363720:C 01 Jun 2025 15:08:33.350 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363720, just started
+363720:C 01 Jun 2025 15:08:33.351 # Configuration loaded
+363720:M 01 Jun 2025 15:08:33.351 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363720:M 01 Jun 2025 15:08:33.351 * monotonic clock: POSIX clock_gettime
+363720:M 01 Jun 2025 15:08:33.351 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363720:M 01 Jun 2025 15:08:33.351 # Failed listening on port 13000 (TCP), aborting.
+363721:C 01 Jun 2025 15:08:35.373 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363721:C 01 Jun 2025 15:08:35.373 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363721, just started
+363721:C 01 Jun 2025 15:08:35.373 # Configuration loaded
+363721:M 01 Jun 2025 15:08:35.374 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363721:M 01 Jun 2025 15:08:35.374 * monotonic clock: POSIX clock_gettime
+363721:M 01 Jun 2025 15:08:35.374 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363721:M 01 Jun 2025 15:08:35.374 # Failed listening on port 13000 (TCP), aborting.
+363722:C 01 Jun 2025 15:08:37.396 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363722:C 01 Jun 2025 15:08:37.396 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363722, just started
+363722:C 01 Jun 2025 15:08:37.396 # Configuration loaded
+363722:M 01 Jun 2025 15:08:37.397 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363722:M 01 Jun 2025 15:08:37.397 * monotonic clock: POSIX clock_gettime
+363722:M 01 Jun 2025 15:08:37.397 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363722:M 01 Jun 2025 15:08:37.397 # Failed listening on port 13000 (TCP), aborting.
+363723:C 01 Jun 2025 15:08:39.418 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363723:C 01 Jun 2025 15:08:39.418 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363723, just started
+363723:C 01 Jun 2025 15:08:39.418 # Configuration loaded
+363723:M 01 Jun 2025 15:08:39.419 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363723:M 01 Jun 2025 15:08:39.419 * monotonic clock: POSIX clock_gettime
+363723:M 01 Jun 2025 15:08:39.419 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363723:M 01 Jun 2025 15:08:39.419 # Failed listening on port 13000 (TCP), aborting.
+363724:C 01 Jun 2025 15:08:41.440 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363724:C 01 Jun 2025 15:08:41.440 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363724, just started
+363724:C 01 Jun 2025 15:08:41.440 # Configuration loaded
+363724:M 01 Jun 2025 15:08:41.441 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363724:M 01 Jun 2025 15:08:41.441 * monotonic clock: POSIX clock_gettime
+363724:M 01 Jun 2025 15:08:41.441 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363724:M 01 Jun 2025 15:08:41.441 # Failed listening on port 13000 (TCP), aborting.
+363725:C 01 Jun 2025 15:08:42.463 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363725:C 01 Jun 2025 15:08:42.463 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363725, just started
+363725:C 01 Jun 2025 15:08:42.463 # Configuration loaded
+363725:M 01 Jun 2025 15:08:42.463 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363725:M 01 Jun 2025 15:08:42.463 * monotonic clock: POSIX clock_gettime
+363725:M 01 Jun 2025 15:08:42.463 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363725:M 01 Jun 2025 15:08:42.463 # Failed listening on port 13000 (TCP), aborting.
+363726:C 01 Jun 2025 15:08:44.485 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363726:C 01 Jun 2025 15:08:44.485 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363726, just started
+363726:C 01 Jun 2025 15:08:44.485 # Configuration loaded
+363726:M 01 Jun 2025 15:08:44.485 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363726:M 01 Jun 2025 15:08:44.485 * monotonic clock: POSIX clock_gettime
+363726:M 01 Jun 2025 15:08:44.486 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363726:M 01 Jun 2025 15:08:44.486 # Failed listening on port 13000 (TCP), aborting.
+363727:C 01 Jun 2025 15:08:46.515 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363727:C 01 Jun 2025 15:08:46.515 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363727, just started
+363727:C 01 Jun 2025 15:08:46.515 # Configuration loaded
+363727:M 01 Jun 2025 15:08:46.515 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363727:M 01 Jun 2025 15:08:46.515 * monotonic clock: POSIX clock_gettime
+363727:M 01 Jun 2025 15:08:46.516 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363727:M 01 Jun 2025 15:08:46.516 # Failed listening on port 13000 (TCP), aborting.
+363728:C 01 Jun 2025 15:08:48.537 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363728:C 01 Jun 2025 15:08:48.537 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363728, just started
+363728:C 01 Jun 2025 15:08:48.537 # Configuration loaded
+363728:M 01 Jun 2025 15:08:48.537 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363728:M 01 Jun 2025 15:08:48.537 * monotonic clock: POSIX clock_gettime
+363728:M 01 Jun 2025 15:08:48.537 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363728:M 01 Jun 2025 15:08:48.537 # Failed listening on port 13000 (TCP), aborting.
+363729:C 01 Jun 2025 15:08:50.576 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363729:C 01 Jun 2025 15:08:50.576 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363729, just started
+363729:C 01 Jun 2025 15:08:50.576 # Configuration loaded
+363729:M 01 Jun 2025 15:08:50.577 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363729:M 01 Jun 2025 15:08:50.577 * monotonic clock: POSIX clock_gettime
+363729:M 01 Jun 2025 15:08:50.577 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363729:M 01 Jun 2025 15:08:50.577 # Failed listening on port 13000 (TCP), aborting.
+363730:C 01 Jun 2025 15:08:51.616 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363730:C 01 Jun 2025 15:08:51.616 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363730, just started
+363730:C 01 Jun 2025 15:08:51.616 # Configuration loaded
+363730:M 01 Jun 2025 15:08:51.616 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363730:M 01 Jun 2025 15:08:51.616 * monotonic clock: POSIX clock_gettime
+363730:M 01 Jun 2025 15:08:51.616 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363730:M 01 Jun 2025 15:08:51.616 # Failed listening on port 13000 (TCP), aborting.
+363731:C 01 Jun 2025 15:08:53.642 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363731:C 01 Jun 2025 15:08:53.642 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363731, just started
+363731:C 01 Jun 2025 15:08:53.642 # Configuration loaded
+363731:M 01 Jun 2025 15:08:53.642 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363731:M 01 Jun 2025 15:08:53.642 * monotonic clock: POSIX clock_gettime
+363731:M 01 Jun 2025 15:08:53.642 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363731:M 01 Jun 2025 15:08:53.642 # Failed listening on port 13000 (TCP), aborting.
+363732:C 01 Jun 2025 15:08:55.665 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363732:C 01 Jun 2025 15:08:55.665 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363732, just started
+363732:C 01 Jun 2025 15:08:55.665 # Configuration loaded
+363732:M 01 Jun 2025 15:08:55.666 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363732:M 01 Jun 2025 15:08:55.666 * monotonic clock: POSIX clock_gettime
+363732:M 01 Jun 2025 15:08:55.666 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363732:M 01 Jun 2025 15:08:55.666 # Failed listening on port 13000 (TCP), aborting.
+363733:C 01 Jun 2025 15:08:57.687 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363733:C 01 Jun 2025 15:08:57.687 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363733, just started
+363733:C 01 Jun 2025 15:08:57.687 # Configuration loaded
+363733:M 01 Jun 2025 15:08:57.688 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363733:M 01 Jun 2025 15:08:57.688 * monotonic clock: POSIX clock_gettime
+363733:M 01 Jun 2025 15:08:57.688 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363733:M 01 Jun 2025 15:08:57.688 # Failed listening on port 13000 (TCP), aborting.
+363734:C 01 Jun 2025 15:08:58.709 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363734:C 01 Jun 2025 15:08:58.709 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363734, just started
+363734:C 01 Jun 2025 15:08:58.709 # Configuration loaded
+363734:M 01 Jun 2025 15:08:58.709 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363734:M 01 Jun 2025 15:08:58.709 * monotonic clock: POSIX clock_gettime
+363734:M 01 Jun 2025 15:08:58.710 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363734:M 01 Jun 2025 15:08:58.710 # Failed listening on port 13000 (TCP), aborting.
+363735:C 01 Jun 2025 15:09:00.732 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363735:C 01 Jun 2025 15:09:00.732 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363735, just started
+363735:C 01 Jun 2025 15:09:00.732 # Configuration loaded
+363735:M 01 Jun 2025 15:09:00.732 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363735:M 01 Jun 2025 15:09:00.732 * monotonic clock: POSIX clock_gettime
+363735:M 01 Jun 2025 15:09:00.733 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363735:M 01 Jun 2025 15:09:00.733 # Failed listening on port 13000 (TCP), aborting.
+363736:C 01 Jun 2025 15:09:03.763 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363736:C 01 Jun 2025 15:09:03.763 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363736, just started
+363736:C 01 Jun 2025 15:09:03.763 # Configuration loaded
+363736:M 01 Jun 2025 15:09:03.763 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363736:M 01 Jun 2025 15:09:03.763 * monotonic clock: POSIX clock_gettime
+363736:M 01 Jun 2025 15:09:03.764 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363736:M 01 Jun 2025 15:09:03.764 # Failed listening on port 13000 (TCP), aborting.
+363737:C 01 Jun 2025 15:09:05.792 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363737:C 01 Jun 2025 15:09:05.792 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363737, just started
+363737:C 01 Jun 2025 15:09:05.792 # Configuration loaded
+363737:M 01 Jun 2025 15:09:05.792 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363737:M 01 Jun 2025 15:09:05.792 * monotonic clock: POSIX clock_gettime
+363737:M 01 Jun 2025 15:09:05.793 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363737:M 01 Jun 2025 15:09:05.793 # Failed listening on port 13000 (TCP), aborting.
+363738:C 01 Jun 2025 15:09:07.821 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363738:C 01 Jun 2025 15:09:07.821 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363738, just started
+363738:C 01 Jun 2025 15:09:07.821 # Configuration loaded
+363738:M 01 Jun 2025 15:09:07.822 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363738:M 01 Jun 2025 15:09:07.822 * monotonic clock: POSIX clock_gettime
+363738:M 01 Jun 2025 15:09:07.822 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363738:M 01 Jun 2025 15:09:07.822 # Failed listening on port 13000 (TCP), aborting.
+363739:C 01 Jun 2025 15:09:09.846 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363739:C 01 Jun 2025 15:09:09.846 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363739, just started
+363739:C 01 Jun 2025 15:09:09.846 # Configuration loaded
+363739:M 01 Jun 2025 15:09:09.847 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363739:M 01 Jun 2025 15:09:09.847 * monotonic clock: POSIX clock_gettime
+363739:M 01 Jun 2025 15:09:09.847 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363739:M 01 Jun 2025 15:09:09.847 # Failed listening on port 13000 (TCP), aborting.
+363740:C 01 Jun 2025 15:09:11.869 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363740:C 01 Jun 2025 15:09:11.869 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363740, just started
+363740:C 01 Jun 2025 15:09:11.869 # Configuration loaded
+363740:M 01 Jun 2025 15:09:11.869 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363740:M 01 Jun 2025 15:09:11.869 * monotonic clock: POSIX clock_gettime
+363740:M 01 Jun 2025 15:09:11.869 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363740:M 01 Jun 2025 15:09:11.869 # Failed listening on port 13000 (TCP), aborting.
+363741:C 01 Jun 2025 15:09:12.894 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363741:C 01 Jun 2025 15:09:12.894 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363741, just started
+363741:C 01 Jun 2025 15:09:12.894 # Configuration loaded
+363741:M 01 Jun 2025 15:09:12.895 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363741:M 01 Jun 2025 15:09:12.895 * monotonic clock: POSIX clock_gettime
+363741:M 01 Jun 2025 15:09:12.895 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363741:M 01 Jun 2025 15:09:12.895 # Failed listening on port 13000 (TCP), aborting.
+363742:C 01 Jun 2025 15:09:14.923 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363742:C 01 Jun 2025 15:09:14.924 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363742, just started
+363742:C 01 Jun 2025 15:09:14.924 # Configuration loaded
+363742:M 01 Jun 2025 15:09:14.925 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363742:M 01 Jun 2025 15:09:14.925 * monotonic clock: POSIX clock_gettime
+363742:M 01 Jun 2025 15:09:14.926 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363742:M 01 Jun 2025 15:09:14.927 # Failed listening on port 13000 (TCP), aborting.
+363743:C 01 Jun 2025 15:09:16.955 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363743:C 01 Jun 2025 15:09:16.955 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363743, just started
+363743:C 01 Jun 2025 15:09:16.955 # Configuration loaded
+363743:M 01 Jun 2025 15:09:16.956 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363743:M 01 Jun 2025 15:09:16.956 * monotonic clock: POSIX clock_gettime
+363743:M 01 Jun 2025 15:09:16.957 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363743:M 01 Jun 2025 15:09:16.957 # Failed listening on port 13000 (TCP), aborting.
+363744:C 01 Jun 2025 15:09:18.980 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363744:C 01 Jun 2025 15:09:18.980 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363744, just started
+363744:C 01 Jun 2025 15:09:18.980 # Configuration loaded
+363744:M 01 Jun 2025 15:09:18.981 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363744:M 01 Jun 2025 15:09:18.981 * monotonic clock: POSIX clock_gettime
+363744:M 01 Jun 2025 15:09:18.981 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363744:M 01 Jun 2025 15:09:18.981 # Failed listening on port 13000 (TCP), aborting.
+363745:C 01 Jun 2025 15:09:21.005 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363745:C 01 Jun 2025 15:09:21.005 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363745, just started
+363745:C 01 Jun 2025 15:09:21.005 # Configuration loaded
+363745:M 01 Jun 2025 15:09:21.006 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363745:M 01 Jun 2025 15:09:21.006 * monotonic clock: POSIX clock_gettime
+363745:M 01 Jun 2025 15:09:21.006 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363745:M 01 Jun 2025 15:09:21.006 # Failed listening on port 13000 (TCP), aborting.
+363746:C 01 Jun 2025 15:09:22.026 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363746:C 01 Jun 2025 15:09:22.026 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363746, just started
+363746:C 01 Jun 2025 15:09:22.026 # Configuration loaded
+363746:M 01 Jun 2025 15:09:22.027 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363746:M 01 Jun 2025 15:09:22.027 * monotonic clock: POSIX clock_gettime
+363746:M 01 Jun 2025 15:09:22.027 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363746:M 01 Jun 2025 15:09:22.027 # Failed listening on port 13000 (TCP), aborting.
+363747:C 01 Jun 2025 15:09:24.050 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363747:C 01 Jun 2025 15:09:24.050 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363747, just started
+363747:C 01 Jun 2025 15:09:24.050 # Configuration loaded
+363747:M 01 Jun 2025 15:09:24.050 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363747:M 01 Jun 2025 15:09:24.051 * monotonic clock: POSIX clock_gettime
+363747:M 01 Jun 2025 15:09:24.051 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363747:M 01 Jun 2025 15:09:24.051 # Failed listening on port 13000 (TCP), aborting.
+363748:C 01 Jun 2025 15:09:27.075 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363748:C 01 Jun 2025 15:09:27.076 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363748, just started
+363748:C 01 Jun 2025 15:09:27.076 # Configuration loaded
+363748:M 01 Jun 2025 15:09:27.076 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363748:M 01 Jun 2025 15:09:27.076 * monotonic clock: POSIX clock_gettime
+363748:M 01 Jun 2025 15:09:27.076 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363748:M 01 Jun 2025 15:09:27.076 # Failed listening on port 13000 (TCP), aborting.
+363756:C 01 Jun 2025 15:09:29.099 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363756:C 01 Jun 2025 15:09:29.099 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363756, just started
+363756:C 01 Jun 2025 15:09:29.099 # Configuration loaded
+363756:M 01 Jun 2025 15:09:29.100 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363756:M 01 Jun 2025 15:09:29.100 * monotonic clock: POSIX clock_gettime
+363756:M 01 Jun 2025 15:09:29.100 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363756:M 01 Jun 2025 15:09:29.101 # Failed listening on port 13000 (TCP), aborting.
+363757:C 01 Jun 2025 15:09:31.122 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363757:C 01 Jun 2025 15:09:31.122 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363757, just started
+363757:C 01 Jun 2025 15:09:31.122 # Configuration loaded
+363757:M 01 Jun 2025 15:09:31.123 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363757:M 01 Jun 2025 15:09:31.123 * monotonic clock: POSIX clock_gettime
+363757:M 01 Jun 2025 15:09:31.123 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363757:M 01 Jun 2025 15:09:31.123 # Failed listening on port 13000 (TCP), aborting.
+363758:C 01 Jun 2025 15:09:32.144 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363758:C 01 Jun 2025 15:09:32.144 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363758, just started
+363758:C 01 Jun 2025 15:09:32.144 # Configuration loaded
+363758:M 01 Jun 2025 15:09:32.145 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363758:M 01 Jun 2025 15:09:32.145 * monotonic clock: POSIX clock_gettime
+363758:M 01 Jun 2025 15:09:32.145 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363758:M 01 Jun 2025 15:09:32.145 # Failed listening on port 13000 (TCP), aborting.
+363759:C 01 Jun 2025 15:09:34.178 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363759:C 01 Jun 2025 15:09:34.178 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363759, just started
+363759:C 01 Jun 2025 15:09:34.178 # Configuration loaded
+363759:M 01 Jun 2025 15:09:34.179 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363759:M 01 Jun 2025 15:09:34.179 * monotonic clock: POSIX clock_gettime
+363759:M 01 Jun 2025 15:09:34.180 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363759:M 01 Jun 2025 15:09:34.180 # Failed listening on port 13000 (TCP), aborting.
+363783:C 01 Jun 2025 15:09:36.202 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363783:C 01 Jun 2025 15:09:36.203 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363783, just started
+363783:C 01 Jun 2025 15:09:36.203 # Configuration loaded
+363783:M 01 Jun 2025 15:09:36.203 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363783:M 01 Jun 2025 15:09:36.203 * monotonic clock: POSIX clock_gettime
+363783:M 01 Jun 2025 15:09:36.203 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363783:M 01 Jun 2025 15:09:36.203 # Failed listening on port 13000 (TCP), aborting.
+363784:C 01 Jun 2025 15:09:37.229 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363784:C 01 Jun 2025 15:09:37.229 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363784, just started
+363784:C 01 Jun 2025 15:09:37.229 # Configuration loaded
+363784:M 01 Jun 2025 15:09:37.230 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363784:M 01 Jun 2025 15:09:37.230 * monotonic clock: POSIX clock_gettime
+363784:M 01 Jun 2025 15:09:37.230 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363784:M 01 Jun 2025 15:09:37.230 # Failed listening on port 13000 (TCP), aborting.
+363785:C 01 Jun 2025 15:09:39.253 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363785:C 01 Jun 2025 15:09:39.253 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363785, just started
+363785:C 01 Jun 2025 15:09:39.253 # Configuration loaded
+363785:M 01 Jun 2025 15:09:39.254 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363785:M 01 Jun 2025 15:09:39.254 * monotonic clock: POSIX clock_gettime
+363785:M 01 Jun 2025 15:09:39.254 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363785:M 01 Jun 2025 15:09:39.254 # Failed listening on port 13000 (TCP), aborting.
+363786:C 01 Jun 2025 15:09:41.282 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363786:C 01 Jun 2025 15:09:41.282 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363786, just started
+363786:C 01 Jun 2025 15:09:41.282 # Configuration loaded
+363786:M 01 Jun 2025 15:09:41.283 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363786:M 01 Jun 2025 15:09:41.283 * monotonic clock: POSIX clock_gettime
+363786:M 01 Jun 2025 15:09:41.283 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363786:M 01 Jun 2025 15:09:41.283 # Failed listening on port 13000 (TCP), aborting.
+363826:C 01 Jun 2025 15:09:43.316 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363826:C 01 Jun 2025 15:09:43.317 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363826, just started
+363826:C 01 Jun 2025 15:09:43.317 # Configuration loaded
+363826:M 01 Jun 2025 15:09:43.318 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363826:M 01 Jun 2025 15:09:43.318 * monotonic clock: POSIX clock_gettime
+363826:M 01 Jun 2025 15:09:43.318 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363826:M 01 Jun 2025 15:09:43.318 # Failed listening on port 13000 (TCP), aborting.
+363881:C 01 Jun 2025 15:09:45.358 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363881:C 01 Jun 2025 15:09:45.360 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363881, just started
+363881:C 01 Jun 2025 15:09:45.360 # Configuration loaded
+363881:M 01 Jun 2025 15:09:45.362 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363881:M 01 Jun 2025 15:09:45.362 * monotonic clock: POSIX clock_gettime
+363881:M 01 Jun 2025 15:09:45.362 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363881:M 01 Jun 2025 15:09:45.362 # Failed listening on port 13000 (TCP), aborting.
+363888:C 01 Jun 2025 15:09:46.401 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363888:C 01 Jun 2025 15:09:46.401 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363888, just started
+363888:C 01 Jun 2025 15:09:46.401 # Configuration loaded
+363888:M 01 Jun 2025 15:09:46.403 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363888:M 01 Jun 2025 15:09:46.403 * monotonic clock: POSIX clock_gettime
+363888:M 01 Jun 2025 15:09:46.403 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363888:M 01 Jun 2025 15:09:46.403 # Failed listening on port 13000 (TCP), aborting.
+363897:C 01 Jun 2025 15:09:48.427 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363897:C 01 Jun 2025 15:09:48.427 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363897, just started
+363897:C 01 Jun 2025 15:09:48.427 # Configuration loaded
+363897:M 01 Jun 2025 15:09:48.428 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363897:M 01 Jun 2025 15:09:48.428 * monotonic clock: POSIX clock_gettime
+363897:M 01 Jun 2025 15:09:48.428 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363897:M 01 Jun 2025 15:09:48.428 # Failed listening on port 13000 (TCP), aborting.
+363900:C 01 Jun 2025 15:09:50.450 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363900:C 01 Jun 2025 15:09:50.450 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363900, just started
+363900:C 01 Jun 2025 15:09:50.450 # Configuration loaded
+363900:M 01 Jun 2025 15:09:50.450 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363900:M 01 Jun 2025 15:09:50.450 * monotonic clock: POSIX clock_gettime
+363900:M 01 Jun 2025 15:09:50.450 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363900:M 01 Jun 2025 15:09:50.450 # Failed listening on port 13000 (TCP), aborting.
+363901:C 01 Jun 2025 15:09:51.471 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363901:C 01 Jun 2025 15:09:51.471 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363901, just started
+363901:C 01 Jun 2025 15:09:51.471 # Configuration loaded
+363901:M 01 Jun 2025 15:09:51.472 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363901:M 01 Jun 2025 15:09:51.472 * monotonic clock: POSIX clock_gettime
+363901:M 01 Jun 2025 15:09:51.472 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363901:M 01 Jun 2025 15:09:51.472 # Failed listening on port 13000 (TCP), aborting.
+363902:C 01 Jun 2025 15:09:53.494 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363902:C 01 Jun 2025 15:09:53.494 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363902, just started
+363902:C 01 Jun 2025 15:09:53.494 # Configuration loaded
+363902:M 01 Jun 2025 15:09:53.494 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363902:M 01 Jun 2025 15:09:53.495 * monotonic clock: POSIX clock_gettime
+363902:M 01 Jun 2025 15:09:53.495 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363902:M 01 Jun 2025 15:09:53.495 # Failed listening on port 13000 (TCP), aborting.
+363903:C 01 Jun 2025 15:09:55.518 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363903:C 01 Jun 2025 15:09:55.518 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363903, just started
+363903:C 01 Jun 2025 15:09:55.518 # Configuration loaded
+363903:M 01 Jun 2025 15:09:55.519 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363903:M 01 Jun 2025 15:09:55.519 * monotonic clock: POSIX clock_gettime
+363903:M 01 Jun 2025 15:09:55.519 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363903:M 01 Jun 2025 15:09:55.519 # Failed listening on port 13000 (TCP), aborting.
+363904:C 01 Jun 2025 15:09:57.542 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363904:C 01 Jun 2025 15:09:57.542 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363904, just started
+363904:C 01 Jun 2025 15:09:57.542 # Configuration loaded
+363904:M 01 Jun 2025 15:09:57.543 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363904:M 01 Jun 2025 15:09:57.543 * monotonic clock: POSIX clock_gettime
+363904:M 01 Jun 2025 15:09:57.543 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363904:M 01 Jun 2025 15:09:57.543 # Failed listening on port 13000 (TCP), aborting.
+363905:C 01 Jun 2025 15:09:59.564 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363905:C 01 Jun 2025 15:09:59.564 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363905, just started
+363905:C 01 Jun 2025 15:09:59.564 # Configuration loaded
+363905:M 01 Jun 2025 15:09:59.564 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363905:M 01 Jun 2025 15:09:59.564 * monotonic clock: POSIX clock_gettime
+363905:M 01 Jun 2025 15:09:59.564 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363905:M 01 Jun 2025 15:09:59.564 # Failed listening on port 13000 (TCP), aborting.
+363906:C 01 Jun 2025 15:10:00.596 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363906:C 01 Jun 2025 15:10:00.596 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363906, just started
+363906:C 01 Jun 2025 15:10:00.596 # Configuration loaded
+363906:M 01 Jun 2025 15:10:00.598 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363906:M 01 Jun 2025 15:10:00.598 * monotonic clock: POSIX clock_gettime
+363906:M 01 Jun 2025 15:10:00.598 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363906:M 01 Jun 2025 15:10:00.598 # Failed listening on port 13000 (TCP), aborting.
+363911:C 01 Jun 2025 15:10:02.649 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363911:C 01 Jun 2025 15:10:02.649 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363911, just started
+363911:C 01 Jun 2025 15:10:02.649 # Configuration loaded
+363911:M 01 Jun 2025 15:10:02.650 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363911:M 01 Jun 2025 15:10:02.650 * monotonic clock: POSIX clock_gettime
+363911:M 01 Jun 2025 15:10:02.661 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363911:M 01 Jun 2025 15:10:02.661 # Failed listening on port 13000 (TCP), aborting.
+363912:C 01 Jun 2025 15:10:04.695 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363912:C 01 Jun 2025 15:10:04.696 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363912, just started
+363912:C 01 Jun 2025 15:10:04.696 # Configuration loaded
+363912:M 01 Jun 2025 15:10:04.696 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363912:M 01 Jun 2025 15:10:04.696 * monotonic clock: POSIX clock_gettime
+363912:M 01 Jun 2025 15:10:04.697 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363912:M 01 Jun 2025 15:10:04.697 # Failed listening on port 13000 (TCP), aborting.
+363913:C 01 Jun 2025 15:10:06.726 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363913:C 01 Jun 2025 15:10:06.726 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363913, just started
+363913:C 01 Jun 2025 15:10:06.726 # Configuration loaded
+363913:M 01 Jun 2025 15:10:06.727 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363913:M 01 Jun 2025 15:10:06.727 * monotonic clock: POSIX clock_gettime
+363913:M 01 Jun 2025 15:10:06.727 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363913:M 01 Jun 2025 15:10:06.727 # Failed listening on port 13000 (TCP), aborting.
+363914:C 01 Jun 2025 15:10:08.758 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363914:C 01 Jun 2025 15:10:08.758 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363914, just started
+363914:C 01 Jun 2025 15:10:08.758 # Configuration loaded
+363914:M 01 Jun 2025 15:10:08.758 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363914:M 01 Jun 2025 15:10:08.758 * monotonic clock: POSIX clock_gettime
+363914:M 01 Jun 2025 15:10:08.759 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363914:M 01 Jun 2025 15:10:08.759 # Failed listening on port 13000 (TCP), aborting.
+363915:C 01 Jun 2025 15:10:10.783 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363915:C 01 Jun 2025 15:10:10.783 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363915, just started
+363915:C 01 Jun 2025 15:10:10.783 # Configuration loaded
+363915:M 01 Jun 2025 15:10:10.783 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363915:M 01 Jun 2025 15:10:10.783 * monotonic clock: POSIX clock_gettime
+363915:M 01 Jun 2025 15:10:10.784 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363915:M 01 Jun 2025 15:10:10.784 # Failed listening on port 13000 (TCP), aborting.
+363916:C 01 Jun 2025 15:10:12.806 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363916:C 01 Jun 2025 15:10:12.806 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363916, just started
+363916:C 01 Jun 2025 15:10:12.806 # Configuration loaded
+363916:M 01 Jun 2025 15:10:12.806 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363916:M 01 Jun 2025 15:10:12.806 * monotonic clock: POSIX clock_gettime
+363916:M 01 Jun 2025 15:10:12.806 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363916:M 01 Jun 2025 15:10:12.806 # Failed listening on port 13000 (TCP), aborting.
+363917:C 01 Jun 2025 15:10:13.827 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363917:C 01 Jun 2025 15:10:13.828 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363917, just started
+363917:C 01 Jun 2025 15:10:13.828 # Configuration loaded
+363917:M 01 Jun 2025 15:10:13.828 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363917:M 01 Jun 2025 15:10:13.828 * monotonic clock: POSIX clock_gettime
+363917:M 01 Jun 2025 15:10:13.829 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363917:M 01 Jun 2025 15:10:13.829 # Failed listening on port 13000 (TCP), aborting.
+363918:C 01 Jun 2025 15:10:15.851 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363918:C 01 Jun 2025 15:10:15.851 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363918, just started
+363918:C 01 Jun 2025 15:10:15.851 # Configuration loaded
+363918:M 01 Jun 2025 15:10:15.852 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363918:M 01 Jun 2025 15:10:15.852 * monotonic clock: POSIX clock_gettime
+363918:M 01 Jun 2025 15:10:15.852 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363918:M 01 Jun 2025 15:10:15.852 # Failed listening on port 13000 (TCP), aborting.
+363919:C 01 Jun 2025 15:10:17.877 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363919:C 01 Jun 2025 15:10:17.877 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363919, just started
+363919:C 01 Jun 2025 15:10:17.877 # Configuration loaded
+363919:M 01 Jun 2025 15:10:17.877 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363919:M 01 Jun 2025 15:10:17.877 * monotonic clock: POSIX clock_gettime
+363919:M 01 Jun 2025 15:10:17.878 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363919:M 01 Jun 2025 15:10:17.878 # Failed listening on port 13000 (TCP), aborting.
+363925:C 01 Jun 2025 15:10:19.765 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363925:C 01 Jun 2025 15:10:19.767 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363925, just started
+363925:C 01 Jun 2025 15:10:19.767 # Configuration loaded
+363925:M 01 Jun 2025 15:10:19.767 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363925:M 01 Jun 2025 15:10:19.767 * monotonic clock: POSIX clock_gettime
+363925:M 01 Jun 2025 15:10:19.767 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363925:M 01 Jun 2025 15:10:19.767 # Failed listening on port 13000 (TCP), aborting.
+363926:C 01 Jun 2025 15:10:21.790 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363926:C 01 Jun 2025 15:10:21.790 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363926, just started
+363926:C 01 Jun 2025 15:10:21.790 # Configuration loaded
+363926:M 01 Jun 2025 15:10:21.790 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363926:M 01 Jun 2025 15:10:21.791 * monotonic clock: POSIX clock_gettime
+363926:M 01 Jun 2025 15:10:21.791 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363926:M 01 Jun 2025 15:10:21.791 # Failed listening on port 13000 (TCP), aborting.
+363930:C 01 Jun 2025 15:10:23.226 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363930:C 01 Jun 2025 15:10:23.227 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363930, just started
+363930:C 01 Jun 2025 15:10:23.228 # Configuration loaded
+363930:M 01 Jun 2025 15:10:23.228 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363930:M 01 Jun 2025 15:10:23.228 * monotonic clock: POSIX clock_gettime
+363930:M 01 Jun 2025 15:10:23.228 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363930:M 01 Jun 2025 15:10:23.229 # Failed listening on port 13000 (TCP), aborting.
+363933:C 01 Jun 2025 15:10:25.254 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363933:C 01 Jun 2025 15:10:25.255 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363933, just started
+363933:C 01 Jun 2025 15:10:25.255 # Configuration loaded
+363933:M 01 Jun 2025 15:10:25.255 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363933:M 01 Jun 2025 15:10:25.255 * monotonic clock: POSIX clock_gettime
+363933:M 01 Jun 2025 15:10:25.256 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363933:M 01 Jun 2025 15:10:25.256 # Failed listening on port 13000 (TCP), aborting.
+363934:C 01 Jun 2025 15:10:27.282 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363934:C 01 Jun 2025 15:10:27.282 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363934, just started
+363934:C 01 Jun 2025 15:10:27.282 # Configuration loaded
+363934:M 01 Jun 2025 15:10:27.283 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363934:M 01 Jun 2025 15:10:27.283 * monotonic clock: POSIX clock_gettime
+363934:M 01 Jun 2025 15:10:27.283 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363934:M 01 Jun 2025 15:10:27.283 # Failed listening on port 13000 (TCP), aborting.
+363935:C 01 Jun 2025 15:10:29.305 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363935:C 01 Jun 2025 15:10:29.306 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363935, just started
+363935:C 01 Jun 2025 15:10:29.306 # Configuration loaded
+363935:M 01 Jun 2025 15:10:29.306 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363935:M 01 Jun 2025 15:10:29.306 * monotonic clock: POSIX clock_gettime
+363935:M 01 Jun 2025 15:10:29.306 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363935:M 01 Jun 2025 15:10:29.306 # Failed listening on port 13000 (TCP), aborting.
+363936:C 01 Jun 2025 15:10:31.327 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363936:C 01 Jun 2025 15:10:31.327 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363936, just started
+363936:C 01 Jun 2025 15:10:31.327 # Configuration loaded
+363936:M 01 Jun 2025 15:10:31.328 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363936:M 01 Jun 2025 15:10:31.328 * monotonic clock: POSIX clock_gettime
+363936:M 01 Jun 2025 15:10:31.328 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363936:M 01 Jun 2025 15:10:31.328 # Failed listening on port 13000 (TCP), aborting.
+363937:C 01 Jun 2025 15:10:33.349 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363937:C 01 Jun 2025 15:10:33.349 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363937, just started
+363937:C 01 Jun 2025 15:10:33.349 # Configuration loaded
+363937:M 01 Jun 2025 15:10:33.349 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363937:M 01 Jun 2025 15:10:33.349 * monotonic clock: POSIX clock_gettime
+363937:M 01 Jun 2025 15:10:33.350 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363937:M 01 Jun 2025 15:10:33.350 # Failed listening on port 13000 (TCP), aborting.
+363938:C 01 Jun 2025 15:10:34.370 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363938:C 01 Jun 2025 15:10:34.370 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363938, just started
+363938:C 01 Jun 2025 15:10:34.370 # Configuration loaded
+363938:M 01 Jun 2025 15:10:34.370 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363938:M 01 Jun 2025 15:10:34.370 * monotonic clock: POSIX clock_gettime
+363938:M 01 Jun 2025 15:10:34.370 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363938:M 01 Jun 2025 15:10:34.370 # Failed listening on port 13000 (TCP), aborting.
+363939:C 01 Jun 2025 15:10:36.391 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363939:C 01 Jun 2025 15:10:36.391 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363939, just started
+363939:C 01 Jun 2025 15:10:36.391 # Configuration loaded
+363939:M 01 Jun 2025 15:10:36.392 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363939:M 01 Jun 2025 15:10:36.392 * monotonic clock: POSIX clock_gettime
+363939:M 01 Jun 2025 15:10:36.392 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363939:M 01 Jun 2025 15:10:36.392 # Failed listening on port 13000 (TCP), aborting.
+363940:C 01 Jun 2025 15:10:38.413 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363940:C 01 Jun 2025 15:10:38.414 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363940, just started
+363940:C 01 Jun 2025 15:10:38.414 # Configuration loaded
+363940:M 01 Jun 2025 15:10:38.414 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363940:M 01 Jun 2025 15:10:38.414 * monotonic clock: POSIX clock_gettime
+363940:M 01 Jun 2025 15:10:38.414 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363940:M 01 Jun 2025 15:10:38.414 # Failed listening on port 13000 (TCP), aborting.
+363941:C 01 Jun 2025 15:10:40.438 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363941:C 01 Jun 2025 15:10:40.438 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363941, just started
+363941:C 01 Jun 2025 15:10:40.438 # Configuration loaded
+363941:M 01 Jun 2025 15:10:40.438 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363941:M 01 Jun 2025 15:10:40.438 * monotonic clock: POSIX clock_gettime
+363941:M 01 Jun 2025 15:10:40.438 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363941:M 01 Jun 2025 15:10:40.438 # Failed listening on port 13000 (TCP), aborting.
+363942:C 01 Jun 2025 15:10:41.463 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363942:C 01 Jun 2025 15:10:41.463 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363942, just started
+363942:C 01 Jun 2025 15:10:41.463 # Configuration loaded
+363942:M 01 Jun 2025 15:10:41.464 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363942:M 01 Jun 2025 15:10:41.464 * monotonic clock: POSIX clock_gettime
+363942:M 01 Jun 2025 15:10:41.464 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363942:M 01 Jun 2025 15:10:41.464 # Failed listening on port 13000 (TCP), aborting.
+363943:C 01 Jun 2025 15:10:43.485 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363943:C 01 Jun 2025 15:10:43.485 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363943, just started
+363943:C 01 Jun 2025 15:10:43.485 # Configuration loaded
+363943:M 01 Jun 2025 15:10:43.485 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363943:M 01 Jun 2025 15:10:43.485 * monotonic clock: POSIX clock_gettime
+363943:M 01 Jun 2025 15:10:43.485 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363943:M 01 Jun 2025 15:10:43.485 # Failed listening on port 13000 (TCP), aborting.
+363944:C 01 Jun 2025 15:10:44.505 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363944:C 01 Jun 2025 15:10:44.505 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363944, just started
+363944:C 01 Jun 2025 15:10:44.505 # Configuration loaded
+363944:M 01 Jun 2025 15:10:44.506 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363944:M 01 Jun 2025 15:10:44.506 * monotonic clock: POSIX clock_gettime
+363944:M 01 Jun 2025 15:10:44.506 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363944:M 01 Jun 2025 15:10:44.506 # Failed listening on port 13000 (TCP), aborting.
+363946:C 01 Jun 2025 15:10:46.546 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363946:C 01 Jun 2025 15:10:46.548 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363946, just started
+363946:C 01 Jun 2025 15:10:46.548 # Configuration loaded
+363946:M 01 Jun 2025 15:10:46.548 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363946:M 01 Jun 2025 15:10:46.548 * monotonic clock: POSIX clock_gettime
+363946:M 01 Jun 2025 15:10:46.548 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363946:M 01 Jun 2025 15:10:46.548 # Failed listening on port 13000 (TCP), aborting.
+363949:C 01 Jun 2025 15:10:48.572 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363949:C 01 Jun 2025 15:10:48.572 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363949, just started
+363949:C 01 Jun 2025 15:10:48.572 # Configuration loaded
+363949:M 01 Jun 2025 15:10:48.572 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363949:M 01 Jun 2025 15:10:48.572 * monotonic clock: POSIX clock_gettime
+363949:M 01 Jun 2025 15:10:48.573 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363949:M 01 Jun 2025 15:10:48.573 # Failed listening on port 13000 (TCP), aborting.
+363950:C 01 Jun 2025 15:10:49.593 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363950:C 01 Jun 2025 15:10:49.593 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363950, just started
+363950:C 01 Jun 2025 15:10:49.593 # Configuration loaded
+363950:M 01 Jun 2025 15:10:49.594 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363950:M 01 Jun 2025 15:10:49.594 * monotonic clock: POSIX clock_gettime
+363950:M 01 Jun 2025 15:10:49.594 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363950:M 01 Jun 2025 15:10:49.594 # Failed listening on port 13000 (TCP), aborting.
+363956:C 01 Jun 2025 15:10:51.638 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363956:C 01 Jun 2025 15:10:51.638 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363956, just started
+363956:C 01 Jun 2025 15:10:51.638 # Configuration loaded
+363956:M 01 Jun 2025 15:10:51.640 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363956:M 01 Jun 2025 15:10:51.640 * monotonic clock: POSIX clock_gettime
+363956:M 01 Jun 2025 15:10:51.640 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363956:M 01 Jun 2025 15:10:51.640 # Failed listening on port 13000 (TCP), aborting.
+363959:C 01 Jun 2025 15:10:53.705 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363959:C 01 Jun 2025 15:10:53.706 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363959, just started
+363959:C 01 Jun 2025 15:10:53.706 # Configuration loaded
+363959:M 01 Jun 2025 15:10:53.706 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363959:M 01 Jun 2025 15:10:53.706 * monotonic clock: POSIX clock_gettime
+363959:M 01 Jun 2025 15:10:53.708 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363959:M 01 Jun 2025 15:10:53.709 # Failed listening on port 13000 (TCP), aborting.
+363976:C 01 Jun 2025 15:10:55.033 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+363976:C 01 Jun 2025 15:10:55.036 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=363976, just started
+363976:C 01 Jun 2025 15:10:55.037 # Configuration loaded
+363976:M 01 Jun 2025 15:10:55.037 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+363976:M 01 Jun 2025 15:10:55.037 * monotonic clock: POSIX clock_gettime
+363976:M 01 Jun 2025 15:10:55.040 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+363976:M 01 Jun 2025 15:10:55.040 # Failed listening on port 13000 (TCP), aborting.
+364007:C 01 Jun 2025 15:10:57.144 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364007:C 01 Jun 2025 15:10:57.144 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364007, just started
+364007:C 01 Jun 2025 15:10:57.144 # Configuration loaded
+364007:M 01 Jun 2025 15:10:57.146 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364007:M 01 Jun 2025 15:10:57.146 * monotonic clock: POSIX clock_gettime
+364007:M 01 Jun 2025 15:10:57.148 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364007:M 01 Jun 2025 15:10:57.148 # Failed listening on port 13000 (TCP), aborting.
+364014:C 01 Jun 2025 15:11:00.619 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364014:C 01 Jun 2025 15:11:00.619 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364014, just started
+364014:C 01 Jun 2025 15:11:00.619 # Configuration loaded
+364014:M 01 Jun 2025 15:11:00.620 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364014:M 01 Jun 2025 15:11:00.620 * monotonic clock: POSIX clock_gettime
+364014:M 01 Jun 2025 15:11:00.620 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364014:M 01 Jun 2025 15:11:00.620 # Failed listening on port 13000 (TCP), aborting.
+364019:C 01 Jun 2025 15:11:04.651 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364019:C 01 Jun 2025 15:11:04.651 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364019, just started
+364019:C 01 Jun 2025 15:11:04.651 # Configuration loaded
+364019:M 01 Jun 2025 15:11:04.652 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364019:M 01 Jun 2025 15:11:04.652 * monotonic clock: POSIX clock_gettime
+364019:M 01 Jun 2025 15:11:04.652 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364019:M 01 Jun 2025 15:11:04.652 # Failed listening on port 13000 (TCP), aborting.
+364020:C 01 Jun 2025 15:11:09.678 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364020:C 01 Jun 2025 15:11:09.678 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364020, just started
+364020:C 01 Jun 2025 15:11:09.678 # Configuration loaded
+364020:M 01 Jun 2025 15:11:09.679 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364020:M 01 Jun 2025 15:11:09.679 * monotonic clock: POSIX clock_gettime
+364020:M 01 Jun 2025 15:11:09.679 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364020:M 01 Jun 2025 15:11:09.679 # Failed listening on port 13000 (TCP), aborting.
+364021:C 01 Jun 2025 15:11:11.700 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364021:C 01 Jun 2025 15:11:11.700 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364021, just started
+364021:C 01 Jun 2025 15:11:11.700 # Configuration loaded
+364021:M 01 Jun 2025 15:11:11.701 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364021:M 01 Jun 2025 15:11:11.701 * monotonic clock: POSIX clock_gettime
+364021:M 01 Jun 2025 15:11:11.701 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364021:M 01 Jun 2025 15:11:11.701 # Failed listening on port 13000 (TCP), aborting.
+364022:C 01 Jun 2025 15:11:13.724 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364022:C 01 Jun 2025 15:11:13.724 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364022, just started
+364022:C 01 Jun 2025 15:11:13.724 # Configuration loaded
+364022:M 01 Jun 2025 15:11:13.725 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364022:M 01 Jun 2025 15:11:13.725 * monotonic clock: POSIX clock_gettime
+364022:M 01 Jun 2025 15:11:13.725 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364022:M 01 Jun 2025 15:11:13.725 # Failed listening on port 13000 (TCP), aborting.
+364023:C 01 Jun 2025 15:11:14.747 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364023:C 01 Jun 2025 15:11:14.747 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364023, just started
+364023:C 01 Jun 2025 15:11:14.747 # Configuration loaded
+364023:M 01 Jun 2025 15:11:14.748 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364023:M 01 Jun 2025 15:11:14.748 * monotonic clock: POSIX clock_gettime
+364023:M 01 Jun 2025 15:11:14.748 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364023:M 01 Jun 2025 15:11:14.748 # Failed listening on port 13000 (TCP), aborting.
+364024:C 01 Jun 2025 15:11:16.769 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364024:C 01 Jun 2025 15:11:16.769 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364024, just started
+364024:C 01 Jun 2025 15:11:16.769 # Configuration loaded
+364024:M 01 Jun 2025 15:11:16.770 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364024:M 01 Jun 2025 15:11:16.770 * monotonic clock: POSIX clock_gettime
+364024:M 01 Jun 2025 15:11:16.770 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364024:M 01 Jun 2025 15:11:16.770 # Failed listening on port 13000 (TCP), aborting.
+364025:C 01 Jun 2025 15:11:18.816 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364025:C 01 Jun 2025 15:11:18.816 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364025, just started
+364025:C 01 Jun 2025 15:11:18.816 # Configuration loaded
+364025:M 01 Jun 2025 15:11:18.818 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364025:M 01 Jun 2025 15:11:18.818 * monotonic clock: POSIX clock_gettime
+364025:M 01 Jun 2025 15:11:18.818 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364025:M 01 Jun 2025 15:11:18.818 # Failed listening on port 13000 (TCP), aborting.
+364026:C 01 Jun 2025 15:11:20.845 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364026:C 01 Jun 2025 15:11:20.845 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364026, just started
+364026:C 01 Jun 2025 15:11:20.845 # Configuration loaded
+364026:M 01 Jun 2025 15:11:20.846 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364026:M 01 Jun 2025 15:11:20.846 * monotonic clock: POSIX clock_gettime
+364026:M 01 Jun 2025 15:11:20.846 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364026:M 01 Jun 2025 15:11:20.846 # Failed listening on port 13000 (TCP), aborting.
+364027:C 01 Jun 2025 15:11:22.866 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364027:C 01 Jun 2025 15:11:22.866 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364027, just started
+364027:C 01 Jun 2025 15:11:22.867 # Configuration loaded
+364027:M 01 Jun 2025 15:11:22.867 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364027:M 01 Jun 2025 15:11:22.867 * monotonic clock: POSIX clock_gettime
+364027:M 01 Jun 2025 15:11:22.868 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364027:M 01 Jun 2025 15:11:22.868 # Failed listening on port 13000 (TCP), aborting.
+364031:C 01 Jun 2025 15:11:24.906 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364031:C 01 Jun 2025 15:11:24.909 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364031, just started
+364031:C 01 Jun 2025 15:11:24.909 # Configuration loaded
+364031:M 01 Jun 2025 15:11:24.910 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364031:M 01 Jun 2025 15:11:24.910 * monotonic clock: POSIX clock_gettime
+364031:M 01 Jun 2025 15:11:24.910 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364031:M 01 Jun 2025 15:11:24.910 # Failed listening on port 13000 (TCP), aborting.
+364032:C 01 Jun 2025 15:11:26.958 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364032:C 01 Jun 2025 15:11:26.958 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364032, just started
+364032:C 01 Jun 2025 15:11:26.958 # Configuration loaded
+364032:M 01 Jun 2025 15:11:26.959 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364032:M 01 Jun 2025 15:11:26.959 * monotonic clock: POSIX clock_gettime
+364032:M 01 Jun 2025 15:11:26.959 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364032:M 01 Jun 2025 15:11:26.959 # Failed listening on port 13000 (TCP), aborting.
+364033:C 01 Jun 2025 15:11:27.996 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364033:C 01 Jun 2025 15:11:27.997 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364033, just started
+364033:C 01 Jun 2025 15:11:27.997 # Configuration loaded
+364033:M 01 Jun 2025 15:11:27.999 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364033:M 01 Jun 2025 15:11:27.999 * monotonic clock: POSIX clock_gettime
+364033:M 01 Jun 2025 15:11:28.000 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364033:M 01 Jun 2025 15:11:28.000 # Failed listening on port 13000 (TCP), aborting.
+364034:C 01 Jun 2025 15:11:30.055 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364034:C 01 Jun 2025 15:11:30.055 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364034, just started
+364034:C 01 Jun 2025 15:11:30.055 # Configuration loaded
+364034:M 01 Jun 2025 15:11:30.056 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364034:M 01 Jun 2025 15:11:30.056 * monotonic clock: POSIX clock_gettime
+364034:M 01 Jun 2025 15:11:30.056 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364034:M 01 Jun 2025 15:11:30.056 # Failed listening on port 13000 (TCP), aborting.
+364035:C 01 Jun 2025 15:11:31.101 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364035:C 01 Jun 2025 15:11:31.103 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364035, just started
+364035:C 01 Jun 2025 15:11:31.103 # Configuration loaded
+364035:M 01 Jun 2025 15:11:31.103 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364035:M 01 Jun 2025 15:11:31.103 * monotonic clock: POSIX clock_gettime
+364035:M 01 Jun 2025 15:11:31.104 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364035:M 01 Jun 2025 15:11:31.104 # Failed listening on port 13000 (TCP), aborting.
+364036:C 01 Jun 2025 15:11:33.159 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364036:C 01 Jun 2025 15:11:33.159 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364036, just started
+364036:C 01 Jun 2025 15:11:33.159 # Configuration loaded
+364036:M 01 Jun 2025 15:11:33.160 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364036:M 01 Jun 2025 15:11:33.160 * monotonic clock: POSIX clock_gettime
+364036:M 01 Jun 2025 15:11:33.160 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364036:M 01 Jun 2025 15:11:33.160 # Failed listening on port 13000 (TCP), aborting.
+364037:C 01 Jun 2025 15:11:35.196 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364037:C 01 Jun 2025 15:11:35.196 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364037, just started
+364037:C 01 Jun 2025 15:11:35.196 # Configuration loaded
+364037:M 01 Jun 2025 15:11:35.196 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364037:M 01 Jun 2025 15:11:35.196 * monotonic clock: POSIX clock_gettime
+364037:M 01 Jun 2025 15:11:35.196 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364037:M 01 Jun 2025 15:11:35.196 # Failed listening on port 13000 (TCP), aborting.
+364038:C 01 Jun 2025 15:11:36.245 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364038:C 01 Jun 2025 15:11:36.245 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364038, just started
+364038:C 01 Jun 2025 15:11:36.245 # Configuration loaded
+364038:M 01 Jun 2025 15:11:36.245 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364038:M 01 Jun 2025 15:11:36.245 * monotonic clock: POSIX clock_gettime
+364038:M 01 Jun 2025 15:11:36.246 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364038:M 01 Jun 2025 15:11:36.246 # Failed listening on port 13000 (TCP), aborting.
+364039:C 01 Jun 2025 15:11:38.312 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364039:C 01 Jun 2025 15:11:38.315 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364039, just started
+364039:C 01 Jun 2025 15:11:38.315 # Configuration loaded
+364039:M 01 Jun 2025 15:11:38.315 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364039:M 01 Jun 2025 15:11:38.315 * monotonic clock: POSIX clock_gettime
+364039:M 01 Jun 2025 15:11:38.317 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364039:M 01 Jun 2025 15:11:38.317 # Failed listening on port 13000 (TCP), aborting.
+364040:C 01 Jun 2025 15:11:39.360 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364040:C 01 Jun 2025 15:11:39.362 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364040, just started
+364040:C 01 Jun 2025 15:11:39.362 # Configuration loaded
+364040:M 01 Jun 2025 15:11:39.364 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364040:M 01 Jun 2025 15:11:39.364 * monotonic clock: POSIX clock_gettime
+364040:M 01 Jun 2025 15:11:39.364 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364040:M 01 Jun 2025 15:11:39.364 # Failed listening on port 13000 (TCP), aborting.
+364041:C 01 Jun 2025 15:11:41.403 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364041:C 01 Jun 2025 15:11:41.403 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364041, just started
+364041:C 01 Jun 2025 15:11:41.403 # Configuration loaded
+364041:M 01 Jun 2025 15:11:41.404 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364041:M 01 Jun 2025 15:11:41.404 * monotonic clock: POSIX clock_gettime
+364041:M 01 Jun 2025 15:11:41.404 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364041:M 01 Jun 2025 15:11:41.405 # Failed listening on port 13000 (TCP), aborting.
+364042:C 01 Jun 2025 15:11:44.444 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364042:C 01 Jun 2025 15:11:44.445 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364042, just started
+364042:C 01 Jun 2025 15:11:44.445 # Configuration loaded
+364042:M 01 Jun 2025 15:11:44.446 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364042:M 01 Jun 2025 15:11:44.446 * monotonic clock: POSIX clock_gettime
+364042:M 01 Jun 2025 15:11:44.446 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364042:M 01 Jun 2025 15:11:44.446 # Failed listening on port 13000 (TCP), aborting.
+364043:C 01 Jun 2025 15:11:48.489 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364043:C 01 Jun 2025 15:11:48.490 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364043, just started
+364043:C 01 Jun 2025 15:11:48.490 # Configuration loaded
+364043:M 01 Jun 2025 15:11:48.490 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364043:M 01 Jun 2025 15:11:48.490 * monotonic clock: POSIX clock_gettime
+364043:M 01 Jun 2025 15:11:48.491 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364043:M 01 Jun 2025 15:11:48.491 # Failed listening on port 13000 (TCP), aborting.
+364044:C 01 Jun 2025 15:11:50.532 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364044:C 01 Jun 2025 15:11:50.532 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364044, just started
+364044:C 01 Jun 2025 15:11:50.532 # Configuration loaded
+364044:M 01 Jun 2025 15:11:50.532 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364044:M 01 Jun 2025 15:11:50.532 * monotonic clock: POSIX clock_gettime
+364044:M 01 Jun 2025 15:11:50.534 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364044:M 01 Jun 2025 15:11:50.534 # Failed listening on port 13000 (TCP), aborting.
+364045:C 01 Jun 2025 15:11:51.573 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364045:C 01 Jun 2025 15:11:51.575 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364045, just started
+364045:C 01 Jun 2025 15:11:51.575 # Configuration loaded
+364045:M 01 Jun 2025 15:11:51.575 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364045:M 01 Jun 2025 15:11:51.575 * monotonic clock: POSIX clock_gettime
+364045:M 01 Jun 2025 15:11:51.577 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364045:M 01 Jun 2025 15:11:51.577 # Failed listening on port 13000 (TCP), aborting.
+364046:C 01 Jun 2025 15:11:53.619 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364046:C 01 Jun 2025 15:11:53.619 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364046, just started
+364046:C 01 Jun 2025 15:11:53.619 # Configuration loaded
+364046:M 01 Jun 2025 15:11:53.621 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364046:M 01 Jun 2025 15:11:53.621 * monotonic clock: POSIX clock_gettime
+364046:M 01 Jun 2025 15:11:53.621 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364046:M 01 Jun 2025 15:11:53.621 # Failed listening on port 13000 (TCP), aborting.
+364047:C 01 Jun 2025 15:11:54.664 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364047:C 01 Jun 2025 15:11:54.666 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364047, just started
+364047:C 01 Jun 2025 15:11:54.667 # Configuration loaded
+364047:M 01 Jun 2025 15:11:54.668 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364047:M 01 Jun 2025 15:11:54.668 * monotonic clock: POSIX clock_gettime
+364047:M 01 Jun 2025 15:11:54.668 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364047:M 01 Jun 2025 15:11:54.668 # Failed listening on port 13000 (TCP), aborting.
+364048:C 01 Jun 2025 15:11:56.702 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364048:C 01 Jun 2025 15:11:56.703 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364048, just started
+364048:C 01 Jun 2025 15:11:56.703 # Configuration loaded
+364048:M 01 Jun 2025 15:11:56.704 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364048:M 01 Jun 2025 15:11:56.704 * monotonic clock: POSIX clock_gettime
+364048:M 01 Jun 2025 15:11:56.704 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364048:M 01 Jun 2025 15:11:56.704 # Failed listening on port 13000 (TCP), aborting.
+364049:C 01 Jun 2025 15:11:59.750 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364049:C 01 Jun 2025 15:11:59.751 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364049, just started
+364049:C 01 Jun 2025 15:11:59.751 # Configuration loaded
+364049:M 01 Jun 2025 15:11:59.752 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364049:M 01 Jun 2025 15:11:59.753 * monotonic clock: POSIX clock_gettime
+364049:M 01 Jun 2025 15:11:59.753 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364049:M 01 Jun 2025 15:11:59.753 # Failed listening on port 13000 (TCP), aborting.
+364050:C 01 Jun 2025 15:12:03.814 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364050:C 01 Jun 2025 15:12:03.814 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364050, just started
+364050:C 01 Jun 2025 15:12:03.814 # Configuration loaded
+364050:M 01 Jun 2025 15:12:03.816 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364050:M 01 Jun 2025 15:12:03.816 * monotonic clock: POSIX clock_gettime
+364050:M 01 Jun 2025 15:12:03.816 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364050:M 01 Jun 2025 15:12:03.816 # Failed listening on port 13000 (TCP), aborting.
+364053:C 01 Jun 2025 15:12:05.864 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364053:C 01 Jun 2025 15:12:05.864 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364053, just started
+364053:C 01 Jun 2025 15:12:05.864 # Configuration loaded
+364053:M 01 Jun 2025 15:12:05.865 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364053:M 01 Jun 2025 15:12:05.867 * monotonic clock: POSIX clock_gettime
+364053:M 01 Jun 2025 15:12:05.867 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364053:M 01 Jun 2025 15:12:05.867 # Failed listening on port 13000 (TCP), aborting.
+364054:C 01 Jun 2025 15:12:07.914 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364054:C 01 Jun 2025 15:12:07.914 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364054, just started
+364054:C 01 Jun 2025 15:12:07.915 # Configuration loaded
+364054:M 01 Jun 2025 15:12:07.916 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364054:M 01 Jun 2025 15:12:07.918 * monotonic clock: POSIX clock_gettime
+364054:M 01 Jun 2025 15:12:07.918 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364054:M 01 Jun 2025 15:12:07.918 # Failed listening on port 13000 (TCP), aborting.
+364055:C 01 Jun 2025 15:12:08.960 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364055:C 01 Jun 2025 15:12:08.961 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364055, just started
+364055:C 01 Jun 2025 15:12:08.961 # Configuration loaded
+364055:M 01 Jun 2025 15:12:08.961 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364055:M 01 Jun 2025 15:12:08.964 * monotonic clock: POSIX clock_gettime
+364055:M 01 Jun 2025 15:12:08.965 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364055:M 01 Jun 2025 15:12:08.965 # Failed listening on port 13000 (TCP), aborting.
+364056:C 01 Jun 2025 15:12:11.014 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364056:C 01 Jun 2025 15:12:11.014 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364056, just started
+364056:C 01 Jun 2025 15:12:11.014 # Configuration loaded
+364056:M 01 Jun 2025 15:12:11.015 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364056:M 01 Jun 2025 15:12:11.017 * monotonic clock: POSIX clock_gettime
+364056:M 01 Jun 2025 15:12:11.017 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364056:M 01 Jun 2025 15:12:11.017 # Failed listening on port 13000 (TCP), aborting.
+364057:C 01 Jun 2025 15:12:12.063 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364057:C 01 Jun 2025 15:12:12.063 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364057, just started
+364057:C 01 Jun 2025 15:12:12.063 # Configuration loaded
+364057:M 01 Jun 2025 15:12:12.063 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364057:M 01 Jun 2025 15:12:12.063 * monotonic clock: POSIX clock_gettime
+364057:M 01 Jun 2025 15:12:12.063 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364057:M 01 Jun 2025 15:12:12.063 # Failed listening on port 13000 (TCP), aborting.
+364058:C 01 Jun 2025 15:12:14.086 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364058:C 01 Jun 2025 15:12:14.086 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364058, just started
+364058:C 01 Jun 2025 15:12:14.086 # Configuration loaded
+364058:M 01 Jun 2025 15:12:14.087 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364058:M 01 Jun 2025 15:12:14.087 * monotonic clock: POSIX clock_gettime
+364058:M 01 Jun 2025 15:12:14.087 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364058:M 01 Jun 2025 15:12:14.087 # Failed listening on port 13000 (TCP), aborting.
+364059:C 01 Jun 2025 15:12:15.113 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364059:C 01 Jun 2025 15:12:15.114 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364059, just started
+364059:C 01 Jun 2025 15:12:15.114 # Configuration loaded
+364059:M 01 Jun 2025 15:12:15.115 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364059:M 01 Jun 2025 15:12:15.115 * monotonic clock: POSIX clock_gettime
+364059:M 01 Jun 2025 15:12:15.115 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364059:M 01 Jun 2025 15:12:15.115 # Failed listening on port 13000 (TCP), aborting.
+364060:C 01 Jun 2025 15:12:17.136 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364060:C 01 Jun 2025 15:12:17.137 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364060, just started
+364060:C 01 Jun 2025 15:12:17.137 # Configuration loaded
+364060:M 01 Jun 2025 15:12:17.137 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364060:M 01 Jun 2025 15:12:17.137 * monotonic clock: POSIX clock_gettime
+364060:M 01 Jun 2025 15:12:17.137 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364060:M 01 Jun 2025 15:12:17.137 # Failed listening on port 13000 (TCP), aborting.
+364061:C 01 Jun 2025 15:12:18.157 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364061:C 01 Jun 2025 15:12:18.157 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364061, just started
+364061:C 01 Jun 2025 15:12:18.157 # Configuration loaded
+364061:M 01 Jun 2025 15:12:18.158 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364061:M 01 Jun 2025 15:12:18.158 * monotonic clock: POSIX clock_gettime
+364061:M 01 Jun 2025 15:12:18.158 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364061:M 01 Jun 2025 15:12:18.158 # Failed listening on port 13000 (TCP), aborting.
+364062:C 01 Jun 2025 15:12:20.182 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364062:C 01 Jun 2025 15:12:20.182 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364062, just started
+364062:C 01 Jun 2025 15:12:20.182 # Configuration loaded
+364062:M 01 Jun 2025 15:12:20.183 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364062:M 01 Jun 2025 15:12:20.183 * monotonic clock: POSIX clock_gettime
+364062:M 01 Jun 2025 15:12:20.183 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364062:M 01 Jun 2025 15:12:20.183 # Failed listening on port 13000 (TCP), aborting.
+364063:C 01 Jun 2025 15:12:21.206 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364063:C 01 Jun 2025 15:12:21.206 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364063, just started
+364063:C 01 Jun 2025 15:12:21.206 # Configuration loaded
+364063:M 01 Jun 2025 15:12:21.206 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364063:M 01 Jun 2025 15:12:21.206 * monotonic clock: POSIX clock_gettime
+364063:M 01 Jun 2025 15:12:21.206 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364063:M 01 Jun 2025 15:12:21.206 # Failed listening on port 13000 (TCP), aborting.
+364064:C 01 Jun 2025 15:12:23.229 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364064:C 01 Jun 2025 15:12:23.229 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364064, just started
+364064:C 01 Jun 2025 15:12:23.229 # Configuration loaded
+364064:M 01 Jun 2025 15:12:23.230 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364064:M 01 Jun 2025 15:12:23.230 * monotonic clock: POSIX clock_gettime
+364064:M 01 Jun 2025 15:12:23.230 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364064:M 01 Jun 2025 15:12:23.230 # Failed listening on port 13000 (TCP), aborting.
+364065:C 01 Jun 2025 15:12:25.252 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364065:C 01 Jun 2025 15:12:25.252 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364065, just started
+364065:C 01 Jun 2025 15:12:25.252 # Configuration loaded
+364065:M 01 Jun 2025 15:12:25.253 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364065:M 01 Jun 2025 15:12:25.253 * monotonic clock: POSIX clock_gettime
+364065:M 01 Jun 2025 15:12:25.253 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364065:M 01 Jun 2025 15:12:25.253 # Failed listening on port 13000 (TCP), aborting.
+364066:C 01 Jun 2025 15:12:26.279 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364066:C 01 Jun 2025 15:12:26.279 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364066, just started
+364066:C 01 Jun 2025 15:12:26.279 # Configuration loaded
+364066:M 01 Jun 2025 15:12:26.280 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364066:M 01 Jun 2025 15:12:26.280 * monotonic clock: POSIX clock_gettime
+364066:M 01 Jun 2025 15:12:26.280 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364066:M 01 Jun 2025 15:12:26.280 # Failed listening on port 13000 (TCP), aborting.
+364067:C 01 Jun 2025 15:12:28.303 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364067:C 01 Jun 2025 15:12:28.303 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364067, just started
+364067:C 01 Jun 2025 15:12:28.303 # Configuration loaded
+364067:M 01 Jun 2025 15:12:28.303 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364067:M 01 Jun 2025 15:12:28.303 * monotonic clock: POSIX clock_gettime
+364067:M 01 Jun 2025 15:12:28.303 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364067:M 01 Jun 2025 15:12:28.303 # Failed listening on port 13000 (TCP), aborting.
+364068:C 01 Jun 2025 15:12:30.325 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364068:C 01 Jun 2025 15:12:30.326 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364068, just started
+364068:C 01 Jun 2025 15:12:30.326 # Configuration loaded
+364068:M 01 Jun 2025 15:12:30.326 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364068:M 01 Jun 2025 15:12:30.326 * monotonic clock: POSIX clock_gettime
+364068:M 01 Jun 2025 15:12:30.326 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364068:M 01 Jun 2025 15:12:30.327 # Failed listening on port 13000 (TCP), aborting.
+364069:C 01 Jun 2025 15:12:32.348 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364069:C 01 Jun 2025 15:12:32.348 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364069, just started
+364069:C 01 Jun 2025 15:12:32.348 # Configuration loaded
+364069:M 01 Jun 2025 15:12:32.348 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364069:M 01 Jun 2025 15:12:32.348 * monotonic clock: POSIX clock_gettime
+364069:M 01 Jun 2025 15:12:32.349 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364069:M 01 Jun 2025 15:12:32.349 # Failed listening on port 13000 (TCP), aborting.
+364070:C 01 Jun 2025 15:12:34.372 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364070:C 01 Jun 2025 15:12:34.372 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364070, just started
+364070:C 01 Jun 2025 15:12:34.372 # Configuration loaded
+364070:M 01 Jun 2025 15:12:34.373 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364070:M 01 Jun 2025 15:12:34.373 * monotonic clock: POSIX clock_gettime
+364070:M 01 Jun 2025 15:12:34.373 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364070:M 01 Jun 2025 15:12:34.373 # Failed listening on port 13000 (TCP), aborting.
+364071:C 01 Jun 2025 15:12:36.396 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364071:C 01 Jun 2025 15:12:36.396 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364071, just started
+364071:C 01 Jun 2025 15:12:36.396 # Configuration loaded
+364071:M 01 Jun 2025 15:12:36.397 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364071:M 01 Jun 2025 15:12:36.397 * monotonic clock: POSIX clock_gettime
+364071:M 01 Jun 2025 15:12:36.397 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364071:M 01 Jun 2025 15:12:36.397 # Failed listening on port 13000 (TCP), aborting.
+364072:C 01 Jun 2025 15:12:37.422 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364072:C 01 Jun 2025 15:12:37.422 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364072, just started
+364072:C 01 Jun 2025 15:12:37.422 # Configuration loaded
+364072:M 01 Jun 2025 15:12:37.423 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364072:M 01 Jun 2025 15:12:37.423 * monotonic clock: POSIX clock_gettime
+364072:M 01 Jun 2025 15:12:37.423 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364072:M 01 Jun 2025 15:12:37.423 # Failed listening on port 13000 (TCP), aborting.
+364073:C 01 Jun 2025 15:12:39.445 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364073:C 01 Jun 2025 15:12:39.445 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364073, just started
+364073:C 01 Jun 2025 15:12:39.445 # Configuration loaded
+364073:M 01 Jun 2025 15:12:39.445 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364073:M 01 Jun 2025 15:12:39.445 * monotonic clock: POSIX clock_gettime
+364073:M 01 Jun 2025 15:12:39.446 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364073:M 01 Jun 2025 15:12:39.446 # Failed listening on port 13000 (TCP), aborting.
+364074:C 01 Jun 2025 15:12:41.473 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364074:C 01 Jun 2025 15:12:41.473 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364074, just started
+364074:C 01 Jun 2025 15:12:41.473 # Configuration loaded
+364074:M 01 Jun 2025 15:12:41.474 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364074:M 01 Jun 2025 15:12:41.474 * monotonic clock: POSIX clock_gettime
+364074:M 01 Jun 2025 15:12:41.475 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364074:M 01 Jun 2025 15:12:41.475 # Failed listening on port 13000 (TCP), aborting.
+364075:C 01 Jun 2025 15:12:43.496 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364075:C 01 Jun 2025 15:12:43.497 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364075, just started
+364075:C 01 Jun 2025 15:12:43.497 # Configuration loaded
+364075:M 01 Jun 2025 15:12:43.497 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364075:M 01 Jun 2025 15:12:43.498 * monotonic clock: POSIX clock_gettime
+364075:M 01 Jun 2025 15:12:43.498 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364075:M 01 Jun 2025 15:12:43.498 # Failed listening on port 13000 (TCP), aborting.
+364076:C 01 Jun 2025 15:12:44.519 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364076:C 01 Jun 2025 15:12:44.519 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364076, just started
+364076:C 01 Jun 2025 15:12:44.519 # Configuration loaded
+364076:M 01 Jun 2025 15:12:44.520 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364076:M 01 Jun 2025 15:12:44.520 * monotonic clock: POSIX clock_gettime
+364076:M 01 Jun 2025 15:12:44.520 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364076:M 01 Jun 2025 15:12:44.520 # Failed listening on port 13000 (TCP), aborting.
+364077:C 01 Jun 2025 15:12:46.542 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364077:C 01 Jun 2025 15:12:46.542 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364077, just started
+364077:C 01 Jun 2025 15:12:46.542 # Configuration loaded
+364077:M 01 Jun 2025 15:12:46.543 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364077:M 01 Jun 2025 15:12:46.543 * monotonic clock: POSIX clock_gettime
+364077:M 01 Jun 2025 15:12:46.543 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364077:M 01 Jun 2025 15:12:46.543 # Failed listening on port 13000 (TCP), aborting.
+364078:C 01 Jun 2025 15:12:48.564 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364078:C 01 Jun 2025 15:12:48.564 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364078, just started
+364078:C 01 Jun 2025 15:12:48.564 # Configuration loaded
+364078:M 01 Jun 2025 15:12:48.564 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364078:M 01 Jun 2025 15:12:48.564 * monotonic clock: POSIX clock_gettime
+364078:M 01 Jun 2025 15:12:48.565 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364078:M 01 Jun 2025 15:12:48.565 # Failed listening on port 13000 (TCP), aborting.
+364079:C 01 Jun 2025 15:12:50.589 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364079:C 01 Jun 2025 15:12:50.589 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364079, just started
+364079:C 01 Jun 2025 15:12:50.589 # Configuration loaded
+364079:M 01 Jun 2025 15:12:50.590 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364079:M 01 Jun 2025 15:12:50.590 * monotonic clock: POSIX clock_gettime
+364079:M 01 Jun 2025 15:12:50.590 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364079:M 01 Jun 2025 15:12:50.590 # Failed listening on port 13000 (TCP), aborting.
+364081:C 01 Jun 2025 15:12:52.138 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364081:C 01 Jun 2025 15:12:52.138 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364081, just started
+364081:C 01 Jun 2025 15:12:52.138 # Configuration loaded
+364081:M 01 Jun 2025 15:12:52.139 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364081:M 01 Jun 2025 15:12:52.139 * monotonic clock: POSIX clock_gettime
+364081:M 01 Jun 2025 15:12:52.139 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364081:M 01 Jun 2025 15:12:52.139 # Failed listening on port 13000 (TCP), aborting.
+364082:C 01 Jun 2025 15:12:54.166 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364082:C 01 Jun 2025 15:12:54.166 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364082, just started
+364082:C 01 Jun 2025 15:12:54.166 # Configuration loaded
+364082:M 01 Jun 2025 15:12:54.167 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364082:M 01 Jun 2025 15:12:54.167 * monotonic clock: POSIX clock_gettime
+364082:M 01 Jun 2025 15:12:54.167 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364082:M 01 Jun 2025 15:12:54.167 # Failed listening on port 13000 (TCP), aborting.
+364083:C 01 Jun 2025 15:12:56.195 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364083:C 01 Jun 2025 15:12:56.195 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364083, just started
+364083:C 01 Jun 2025 15:12:56.195 # Configuration loaded
+364083:M 01 Jun 2025 15:12:56.196 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364083:M 01 Jun 2025 15:12:56.196 * monotonic clock: POSIX clock_gettime
+364083:M 01 Jun 2025 15:12:56.197 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364083:M 01 Jun 2025 15:12:56.197 # Failed listening on port 13000 (TCP), aborting.
+364084:C 01 Jun 2025 15:12:58.225 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364084:C 01 Jun 2025 15:12:58.225 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364084, just started
+364084:C 01 Jun 2025 15:12:58.226 # Configuration loaded
+364084:M 01 Jun 2025 15:12:58.226 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364084:M 01 Jun 2025 15:12:58.227 * monotonic clock: POSIX clock_gettime
+364084:M 01 Jun 2025 15:12:58.227 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364084:M 01 Jun 2025 15:12:58.227 # Failed listening on port 13000 (TCP), aborting.
+364085:C 01 Jun 2025 15:13:00.257 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364085:C 01 Jun 2025 15:13:00.257 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364085, just started
+364085:C 01 Jun 2025 15:13:00.257 # Configuration loaded
+364085:M 01 Jun 2025 15:13:00.257 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364085:M 01 Jun 2025 15:13:00.257 * monotonic clock: POSIX clock_gettime
+364085:M 01 Jun 2025 15:13:00.258 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364085:M 01 Jun 2025 15:13:00.258 # Failed listening on port 13000 (TCP), aborting.
+364086:C 01 Jun 2025 15:13:01.282 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364086:C 01 Jun 2025 15:13:01.282 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364086, just started
+364086:C 01 Jun 2025 15:13:01.282 # Configuration loaded
+364086:M 01 Jun 2025 15:13:01.282 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364086:M 01 Jun 2025 15:13:01.282 * monotonic clock: POSIX clock_gettime
+364086:M 01 Jun 2025 15:13:01.283 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364086:M 01 Jun 2025 15:13:01.283 # Failed listening on port 13000 (TCP), aborting.
+364087:C 01 Jun 2025 15:13:03.306 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364087:C 01 Jun 2025 15:13:03.306 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364087, just started
+364087:C 01 Jun 2025 15:13:03.306 # Configuration loaded
+364087:M 01 Jun 2025 15:13:03.306 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364087:M 01 Jun 2025 15:13:03.306 * monotonic clock: POSIX clock_gettime
+364087:M 01 Jun 2025 15:13:03.307 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364087:M 01 Jun 2025 15:13:03.307 # Failed listening on port 13000 (TCP), aborting.
+364088:C 01 Jun 2025 15:13:05.328 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364088:C 01 Jun 2025 15:13:05.328 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364088, just started
+364088:C 01 Jun 2025 15:13:05.328 # Configuration loaded
+364088:M 01 Jun 2025 15:13:05.329 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364088:M 01 Jun 2025 15:13:05.329 * monotonic clock: POSIX clock_gettime
+364088:M 01 Jun 2025 15:13:05.329 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+364088:M 01 Jun 2025 15:13:05.329 # Failed listening on port 13000 (TCP), aborting.
+364091:C 01 Jun 2025 15:13:07.354 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364091:C 01 Jun 2025 15:13:07.355 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364091, just started
+364091:C 01 Jun 2025 15:13:07.355 # Configuration loaded
+364091:M 01 Jun 2025 15:13:07.355 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364091:M 01 Jun 2025 15:13:07.355 * monotonic clock: POSIX clock_gettime
+364091:M 01 Jun 2025 15:13:07.356 * Running mode=standalone, port=13000.
+364091:M 01 Jun 2025 15:13:07.356 # Server initialized
+364091:M 01 Jun 2025 15:13:07.357 * Ready to accept connections
+364091:signal-handler (1748790881) Received SIGTERM scheduling shutdown...
+364091:M 01 Jun 2025 15:14:41.881 # User requested shutdown...
+364091:M 01 Jun 2025 15:14:41.881 * Removing the pid file.
+364091:M 01 Jun 2025 15:14:41.881 # Redis is now ready to exit, bye bye...
+364137:C 01 Jun 2025 15:14:41.936 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364137:C 01 Jun 2025 15:14:41.937 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364137, just started
+364137:C 01 Jun 2025 15:14:41.937 # Configuration loaded
+364137:M 01 Jun 2025 15:14:41.938 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364137:M 01 Jun 2025 15:14:41.938 * monotonic clock: POSIX clock_gettime
+364137:M 01 Jun 2025 15:14:41.942 * Running mode=standalone, port=13000.
+364137:M 01 Jun 2025 15:14:41.942 # Server initialized
+364137:M 01 Jun 2025 15:14:41.944 * Ready to accept connections
+364170:C 01 Jun 2025 15:15:46.744 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+364170:C 01 Jun 2025 15:15:46.744 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=364170, just started
+364170:C 01 Jun 2025 15:15:46.744 # Configuration loaded
+364170:M 01 Jun 2025 15:15:46.746 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+364170:M 01 Jun 2025 15:15:46.746 * monotonic clock: POSIX clock_gettime
+364170:M 01 Jun 2025 15:15:46.747 * Running mode=standalone, port=13000.
+364170:M 01 Jun 2025 15:15:46.747 # Server initialized
+364170:M 01 Jun 2025 15:15:46.752 * Ready to accept connections
+364170:signal-handler (1748790994) Received SIGTERM scheduling shutdown...
+364170:M 01 Jun 2025 15:16:34.102 # User requested shutdown...
+364170:M 01 Jun 2025 15:16:34.103 * Removing the pid file.
+364170:M 01 Jun 2025 15:16:34.103 # Redis is now ready to exit, bye bye...
+365301:C 01 Jun 2025 16:22:44.223 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365301:C 01 Jun 2025 16:22:44.223 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365301, just started
+365301:C 01 Jun 2025 16:22:44.223 # Configuration loaded
+365301:M 01 Jun 2025 16:22:44.224 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365301:M 01 Jun 2025 16:22:44.224 * monotonic clock: POSIX clock_gettime
+365301:M 01 Jun 2025 16:22:44.224 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365301:M 01 Jun 2025 16:22:44.224 # Failed listening on port 13000 (TCP), aborting.
+365314:C 01 Jun 2025 16:22:45.415 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365314:C 01 Jun 2025 16:22:45.415 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365314, just started
+365314:C 01 Jun 2025 16:22:45.415 # Configuration loaded
+365314:M 01 Jun 2025 16:22:45.421 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365314:M 01 Jun 2025 16:22:45.421 * monotonic clock: POSIX clock_gettime
+365314:M 01 Jun 2025 16:22:45.421 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365314:M 01 Jun 2025 16:22:45.421 # Failed listening on port 13000 (TCP), aborting.
+365322:C 01 Jun 2025 16:22:47.657 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365322:C 01 Jun 2025 16:22:47.664 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365322, just started
+365322:C 01 Jun 2025 16:22:47.664 # Configuration loaded
+365322:M 01 Jun 2025 16:22:47.665 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365322:M 01 Jun 2025 16:22:47.665 * monotonic clock: POSIX clock_gettime
+365322:M 01 Jun 2025 16:22:47.665 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365322:M 01 Jun 2025 16:22:47.665 # Failed listening on port 13000 (TCP), aborting.
+365333:C 01 Jun 2025 16:22:51.646 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365333:C 01 Jun 2025 16:22:51.647 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365333, just started
+365333:C 01 Jun 2025 16:22:51.647 # Configuration loaded
+365333:M 01 Jun 2025 16:22:51.647 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365333:M 01 Jun 2025 16:22:51.647 * monotonic clock: POSIX clock_gettime
+365333:M 01 Jun 2025 16:22:51.649 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365333:M 01 Jun 2025 16:22:51.649 # Failed listening on port 13000 (TCP), aborting.
+365349:C 01 Jun 2025 16:22:56.666 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365349:C 01 Jun 2025 16:22:56.666 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365349, just started
+365349:C 01 Jun 2025 16:22:56.666 # Configuration loaded
+365349:M 01 Jun 2025 16:22:56.675 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365349:M 01 Jun 2025 16:22:56.675 * monotonic clock: POSIX clock_gettime
+365349:M 01 Jun 2025 16:22:56.675 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365349:M 01 Jun 2025 16:22:56.675 # Failed listening on port 13000 (TCP), aborting.
+365373:C 01 Jun 2025 16:23:01.871 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365373:C 01 Jun 2025 16:23:01.873 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365373, just started
+365373:C 01 Jun 2025 16:23:01.873 # Configuration loaded
+365373:M 01 Jun 2025 16:23:01.874 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365373:M 01 Jun 2025 16:23:01.874 * monotonic clock: POSIX clock_gettime
+365373:M 01 Jun 2025 16:23:01.874 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365373:M 01 Jun 2025 16:23:01.874 # Failed listening on port 13000 (TCP), aborting.
+365390:C 01 Jun 2025 16:23:08.152 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365390:C 01 Jun 2025 16:23:08.154 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365390, just started
+365390:C 01 Jun 2025 16:23:08.154 # Configuration loaded
+365390:M 01 Jun 2025 16:23:08.154 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365390:M 01 Jun 2025 16:23:08.154 * monotonic clock: POSIX clock_gettime
+365390:M 01 Jun 2025 16:23:08.154 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365390:M 01 Jun 2025 16:23:08.154 # Failed listening on port 13000 (TCP), aborting.
+365414:C 01 Jun 2025 16:23:15.763 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365414:C 01 Jun 2025 16:23:15.763 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365414, just started
+365414:C 01 Jun 2025 16:23:15.763 # Configuration loaded
+365414:M 01 Jun 2025 16:23:15.763 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365414:M 01 Jun 2025 16:23:15.763 * monotonic clock: POSIX clock_gettime
+365414:M 01 Jun 2025 16:23:15.763 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365414:M 01 Jun 2025 16:23:15.763 # Failed listening on port 13000 (TCP), aborting.
+365438:C 01 Jun 2025 16:23:23.867 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365438:C 01 Jun 2025 16:23:23.867 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365438, just started
+365438:C 01 Jun 2025 16:23:23.867 # Configuration loaded
+365438:M 01 Jun 2025 16:23:23.867 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365438:M 01 Jun 2025 16:23:23.867 * monotonic clock: POSIX clock_gettime
+365438:M 01 Jun 2025 16:23:23.871 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365438:M 01 Jun 2025 16:23:23.871 # Failed listening on port 13000 (TCP), aborting.
+365484:C 01 Jun 2025 16:23:33.718 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365484:C 01 Jun 2025 16:23:33.718 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365484, just started
+365484:C 01 Jun 2025 16:23:33.718 # Configuration loaded
+365484:M 01 Jun 2025 16:23:33.720 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365484:M 01 Jun 2025 16:23:33.720 * monotonic clock: POSIX clock_gettime
+365484:M 01 Jun 2025 16:23:33.720 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365484:M 01 Jun 2025 16:23:33.720 # Failed listening on port 13000 (TCP), aborting.
+365536:C 01 Jun 2025 16:23:43.971 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+365536:C 01 Jun 2025 16:23:43.973 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=365536, just started
+365536:C 01 Jun 2025 16:23:43.973 # Configuration loaded
+365536:M 01 Jun 2025 16:23:43.973 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+365536:M 01 Jun 2025 16:23:43.973 * monotonic clock: POSIX clock_gettime
+365536:M 01 Jun 2025 16:23:43.973 # Warning: Could not create server TCP listening socket 127.0.0.1:13000: bind: Address already in use
+365536:M 01 Jun 2025 16:23:43.973 # Failed listening on port 13000 (TCP), aborting.
